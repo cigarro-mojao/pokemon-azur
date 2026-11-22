@@ -428,7 +428,9 @@ module Settings
   #       - def self.more_possessive_messages?
   #       - def self.whitespace_separates_words?
   LANGUAGES = [
-#    ["English", "english"],
+     ["English", "english"],
+     ["Spanish", "spanish"],
+     ["Catalan", "catalan"]
 #    ["Français", "francais"],
 #    ["Deutsch", "deutsch"],
 #    ["中文", "chinese"],

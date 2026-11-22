@@ -1740,3 +1740,39 @@ A ticket required to board the ship to Berth Island. It glows beautifully.
 A ticket required to board the ship to Berth Island. It glows beautifully.
 A faded sea chart that shows the way to a certain island.
 A faded sea chart that shows the way to a certain island.
+A flute made from black glass. It makes wild Pokémon less likely to appear.
+A flute made from black glass. It makes wild Pokémon less likely to appear.
+A flute made from white glass. It makes wild Pokémon more likely to appear.
+A flute made from white glass. It makes wild Pokémon more likely to appear.
+A spray-type medicine for treating wounds. It can be used to restore 50 HP to a Pokémon.
+A spray-type medicine for treating wounds. It can be used to restore 50 HP to a Pokémon.
+A spray-type medicine for treating wounds. It can be used to restore 200 HP to a Pokémon.
+A spray-type medicine for treating wounds. It can be used to restore 200 HP to a Pokémon.
+Mahogany Town's famous candy. It can be used to restore 20 HP to a Pokémon.
+Mahogany Town's famous candy. It can be used to restore 20 HP to a Pokémon.
+Water with high mineral content. It can be used to restore 50 HP to a Pokémon.
+Water with high mineral content. It can be used to restore 50 HP to a Pokémon.
+A highly carbonated soda drink. It can be used to restore 60 HP to a Pokémon.
+A highly carbonated soda drink. It can be used to restore 60 HP to a Pokémon.
+A very sweet and refreshing drink. It can be used to restore 80 HP to a Pokémon.
+A very sweet and refreshing drink. It can be used to restore 80 HP to a Pokémon.
+A very bitter medicinal powder. It can be used to restore 50 HP to a Pokémon.
+A very bitter medicinal powder. It can be used to restore 50 HP to a Pokémon.
+A very bitter medicinal root. It can be used to restore 200 HP to a Pokémon.
+A very bitter medicinal root. It can be used to restore 200 HP to a Pokémon.
+When the holder changes the weather to hail, the hail will persist for longer than usual.
+When the holder changes the weather to hail, the hail will persist for longer than usual.
+A wondrous orb to be held by Latios or Latias. It boosts their Sp. Atk and Sp. Def stats.
+A wondrous orb to be held by Latios or Latias. It boosts their Sp. Atk and Sp. Def stats.
+An item that raises the Attack stat of a Pokémon in battle.
+An item that raises the Attack stat of a Pokémon in battle.
+An item that raises the Defense stat of a Pokémon in battle.
+An item that raises the Defense stat of a Pokémon in battle.
+An item that raises the Sp. Atk stat of a Pokémon in battle.
+An item that raises the Sp. Atk stat of a Pokémon in battle.
+An item that raises the Sp. Def stat of a Pokémon in battle.
+An item that raises the Sp. Def stat of a Pokémon in battle.
+An item that raises the Speed stat of a Pokémon in battle.
+An item that raises the Speed stat of a Pokémon in battle.
+An item that raises a Pokémon's accuracy in battle.
+An item that raises a Pokémon's accuracy in battle.
