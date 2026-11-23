@@ -3,158 +3,158 @@
 #-------------------------------
 [RIBBON_DESCRIPTIONS]
 Hoenn Cool Contest Normal Rank winner!
-Hoenn Cool Contest Normal Rank winner!
+¡Ganador de la categoría Normal del Concurso Carisma!
 Hoenn Cool Contest Super Rank winner!
-Hoenn Cool Contest Super Rank winner!
+¡Ganador de la categoría Alto del Concurso Carisma!
 Hoenn Cool Contest Hyper Rank winner!
-Hoenn Cool Contest Hyper Rank winner!
+¡Ganador de la categoría Avanzado del Concurso Carisma!
 Hoenn Cool Contest Master Rank winner!
-Hoenn Cool Contest Master Rank winner!
+¡Ganador de la categoría Experto del Concurso Carisma!
 Hoenn Beauty Contest Normal Rank winner!
-Hoenn Beauty Contest Normal Rank winner!
+¡Ganador de la categoría Normal del Concurso de Belleza!
 Hoenn Beauty Contest Super Rank winner!
-Hoenn Beauty Contest Super Rank winner!
+¡Ganador de la categoría Alto del Concurso de Belleza!
 Hoenn Beauty Contest Hyper Rank winner!
-Hoenn Beauty Contest Hyper Rank winner!
+¡Ganador de la categoría Avanzado del Concurso de Belleza!
 Hoenn Beauty Contest Master Rank winner!
-Hoenn Beauty Contest Master Rank winner!
+¡Ganador de la categoría Experto del Concurso de Belleza!
 Hoenn Cute Contest Normal Rank winner!
-Hoenn Cute Contest Normal Rank winner!
+¡Ganador de la categoría Normal del Concurso de Dulzura!
 Hoenn Cute Contest Super Rank winner!
-Hoenn Cute Contest Super Rank winner!
+¡Ganador de la categoría Alto del Concurso de Dulzura!
 Hoenn Cute Contest Hyper Rank winner!
-Hoenn Cute Contest Hyper Rank winner!
+¡Ganador de la categoría Avanzado del Concurso de Dulzura!
 Hoenn Cute Contest Master Rank winner!
-Hoenn Cute Contest Master Rank winner!
+¡Ganador de la categoría Experto del Concurso de Dulzura!
 Hoenn Smart Contest Normal Rank winner!
-Hoenn Smart Contest Normal Rank winner!
+¡Ganador de la categoría Normal del Concurso de Ingenio!
 Hoenn Smart Contest Super Rank winner!
-Hoenn Smart Contest Super Rank winner!
+¡Ganador de la categoría Alto del Concurso de Ingenio!
 Hoenn Smart Contest Hyper Rank winner!
-Hoenn Smart Contest Hyper Rank winner!
+¡Ganador de la categoría Avanzado del Concurso de Ingenio!
 Hoenn Smart Contest Master Rank winner!
-Hoenn Smart Contest Master Rank winner!
+¡Ganador de la categoría Experto del Concurso de Ingenio!
 Hoenn Tough Contest Normal Rank winner!
-Hoenn Tough Contest Normal Rank winner!
+¡Ganador de la categoría Normal del Concurso de Dureza!
 Hoenn Tough Contest Super Rank winner!
-Hoenn Tough Contest Super Rank winner!
+¡Ganador de la categoría Alto del Concurso de Dureza!
 Hoenn Tough Contest Hyper Rank winner!
-Hoenn Tough Contest Hyper Rank winner!
+¡Ganador de la categoría Avanzado del Concurso de Dureza!
 Hoenn Tough Contest Master Rank winner!
-Hoenn Tough Contest Master Rank winner!
+¡Ganador de la categoría Experto del Concurso de Dureza!
 Super Contest Cool Category Normal Rank winner!
-Super Contest Cool Category Normal Rank winner!
+¡Ganador de la categoría Normal del Súper concurso de Categoría Carisma!
 Super Contest Cool Category Great Rank winner!
-Super Contest Cool Category Great Rank winner!
+¡Ganador de la categoría Difícil del Súper concurso de Categoría Carisma!
 Super Contest Cool Category Ultra Rank winner!
-Super Contest Cool Category Ultra Rank winner!
+¡Ganador de la categoría Superior del Súper concurso de Categoría Carisma!
 Super Contest Cool Category Master Rank winner!
-Super Contest Cool Category Master Rank winner!
+¡Ganador de la categoría Experto del Súper concurso de Categoría Carisma!
 Super Contest Beauty Category Normal Rank winner!
-Super Contest Beauty Category Normal Rank winner!
+¡Ganador de la categoría Normal del Súper concurso de Categoría Belleza!
 Super Contest Beauty Category Great Rank winner!
-Super Contest Beauty Category Great Rank winner!
+¡Ganador de la categoría Difícil del Súper concurso de Categoría Belleza!
 Super Contest Beauty Category Ultra Rank winner!
-Super Contest Beauty Category Ultra Rank winner!
+¡Ganador de la categoría Superior del Súper concurso de Categoría Belleza!
 Super Contest Beauty Category Master Rank winner!
-Super Contest Beauty Category Master Rank winner!
+¡Ganador de la categoría Experto del Súper concurso de Categoría Belleza!
 Super Contest Cute Category Normal Rank winner!
-Super Contest Cute Category Normal Rank winner!
+¡Ganador de la categoría Normal del Súper concurso de Categoría Dulzura!
 Super Contest Cute Category Great Rank winner!
-Super Contest Cute Category Great Rank winner!
+¡Ganador de la categoría Difícil del Súper concurso de Categoría Dulzura!
 Super Contest Cute Category Ultra Rank winner!
-Super Contest Cute Category Ultra Rank winner!
+¡Ganador de la categoría Superior del Súper concurso de Categoría Dulzura!
 Super Contest Cute Category Master Rank winner!
-Super Contest Cute Category Master Rank winner!
+¡Ganador de la categoría Experto del Súper concurso de Categoría Dulzura!
 Super Contest Smart Category Normal Rank winner!
-Super Contest Smart Category Normal Rank winner!
+¡Ganador de la categoría Normal del Súper concurso de Categoría Ingenio!
 Super Contest Smart Category Great Rank winner!
-Super Contest Smart Category Great Rank winner!
+¡Ganador de la categoría Difícil del Súper concurso de Categoría Ingenio!
 Super Contest Smart Category Ultra Rank winner!
-Super Contest Smart Category Ultra Rank winner!
+¡Ganador de la categoría Superior del Súper concurso de Categoría Ingenio!
 Super Contest Smart Category Master Rank winner!
-Super Contest Smart Category Master Rank winner!
+¡Ganador de la categoría Experto del Súper concurso de Categoría Ingenio!
 Super Contest Tough Category Normal Rank winner!
-Super Contest Tough Category Normal Rank winner!
+¡Ganador de la categoría Normal del Súper concurso de Categoría Dureza!
 Super Contest Tough Category Great Rank winner!
-Super Contest Tough Category Great Rank winner!
+¡Ganador de la categoría Difícil del Súper concurso de Categoría Dureza!
 Super Contest Tough Category Ultra Rank winner!
-Super Contest Tough Category Ultra Rank winner!
+¡Ganador de la categoría Superior del Súper concurso de Categoría Dureza!
 Super Contest Tough Category Master Rank winner!
-Super Contest Tough Category Master Rank winner!
+¡Ganador de la categoría Experto del Súper concurso de Categoría Dureza!
 Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 50 challenge.
-Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 50 challenge.
+Cinta otorgada por superar el desafío de nivel 50 de la Torre Batalla.
 Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 100 challenge.
-Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 100 challenge.
+Cinta otorgada por superar el desafío de nivel 100 de la Torre Batalla.
 A Ribbon awarded for defeating the Tower Tycoon at the Battle Tower.
-A Ribbon awarded for defeating the Tower Tycoon at the Battle Tower.
+Cinta obtenida por vencer por primera vez al Amo Torre en la Torre Batalla.
 A Ribbon awarded for completing the Battle Tower Double challenge.
-A Ribbon awarded for completing the Battle Tower Double challenge.
+Una cinta otorgada por completar el desafío de Doble de la Torre Batalla.
 A Ribbon awarded for completing the Battle Tower Multi challenge.
-A Ribbon awarded for completing the Battle Tower Multi challenge.
+Una cinta otorgada por completar el desafío Multi de la Torre Batalla.
 A Ribbon awarded for completing the Battle Tower Link Multi challenge.
-A Ribbon awarded for completing the Battle Tower Link Multi challenge.
+Una cinta otorgada por completar el desafío Multi Conexión de la Torre Batalla.
 A Ribbon awarded for completing the Wi-Fi Battle Tower challenge.
-A Ribbon awarded for completing the Wi-Fi Battle Tower challenge.
+Una cinta otorgada por completar el desafío de la Torre Batalla Wi-Fi.
 Ribbon for clearing the Pokémon League and entering the Hall of Fame in another region.
-Ribbon for clearing the Pokémon League and entering the Hall of Fame in another region.
+Cinta por superar la Liga Pokémon e ingresar al Salón de la Fama.
 Ribbon awarded for beating the Sinnoh Champion and entering the Hall of Fame.
-Ribbon awarded for beating the Sinnoh Champion and entering the Hall of Fame.
+Cinta otorgada por vencer al Campeón e ingresar al Salón de la Fama de Sinnoh.
 A Ribbon awarded for setting an incredible record.
-A Ribbon awarded for setting an incredible record.
+Una cinta otorgada por establecer un récord increíble.
 Pokémon Event Participation Ribbon.
-Pokémon Event Participation Ribbon.
+Una cinta otorgada por establecer un récord histórico.
 A Ribbon awarded for setting a legendary record.
-A Ribbon awarded for setting a legendary record.
+Una cinta otorgada por establecer un récord legendario.
 An extraordinarily gorgeous and extravagant Ribbon.
-An extraordinarily gorgeous and extravagant Ribbon.
+Una cinta extremadamente bonita y extravagante.
 An incredibly regal Ribbon with an air of nobility.
-An incredibly regal Ribbon with an air of nobility.
+Una cinta increíblemente majestuosa y con un aire aristocrático.
 A gorgeous and regal Ribbon that is the peak of fabulous.
-A gorgeous and regal Ribbon that is the peak of fabulous.
+Una cinta preciosa y majestuosa que es de lo más fabulosa y maravillosa.
 A Ribbon for recalling an invigorating event that created life energy.
-A Ribbon for recalling an invigorating event that created life energy.
+Una cinta para recordar un evento vigorizante que creó energía vital.
 A Ribbon for recalling a thrilling event that made life more exciting.
-A Ribbon for recalling a thrilling event that made life more exciting.
+Una cinta para recordar un evento emocionante que hizo la vida más interesante.
 A Ribbon for recalling feelings of sadness that added spice to life.
-A Ribbon for recalling feelings of sadness that added spice to life.
+Una cinta para recordar sentimientos tristes que añadieron interés a la vida.
 A Ribbon for recalling a careless error that helped steer life decisions.
-A Ribbon for recalling a careless error that helped steer life decisions.
+Una cinta para recordar descuidos que ayudaron a tomar decisiones vitales.
 A Ribbon for recalling a refreshing event that added sparkle to life.
-A Ribbon for recalling a refreshing event that added sparkle to life.
+Una cinta para recordar una anécdota refrescante que añadió chispa a la vida.
 A Ribbon for recalling a deep slumber that made life soothing.
-A Ribbon for recalling a deep slumber that made life soothing.
+Una cinta para recordar un sueño profundo que hizo que la vida fuera calmada.
 A Ribbon for recalling that smiles enrich the quality of life.
-A Ribbon for recalling that smiles enrich the quality of life.
+Una cinta para recordar que las sonrisas mejoran la calidad de vida.
 A Ribbon awarded to a Pokémon deemed to have a top-quality footprint.
-A Ribbon awarded to a Pokémon deemed to have a top-quality footprint.
+Una cinta otorgada a un Pokémon que deja huellas de primera.
 Ribbon awarded for being chosen as a super sketch model in Hoenn.
-Ribbon awarded for being chosen as a super sketch model in Hoenn.
+Cinta otorgada por ser elegido como supermodelo en Hoenn.
 Ribbon awarded for being an exceptionally hard worker.
-Ribbon awarded for being an exceptionally hard worker.
+Cinta otorgada por ser un excelente trabajador.
 A Ribbon to celebrate a birthday.
-A Ribbon to celebrate a birthday.
+Una cinta para celebrar un cumpleaños.
 A special Ribbon for a special day.
-A special Ribbon for a special day.
+Una cinta para conmemorar un día especial.
 A Ribbon that proclaims love for Pokémon.
-A Ribbon that proclaims love for Pokémon.
+Una cinta que proclama amor por los Pokémon.
 Special Holiday Ribbon.
-Special Holiday Ribbon.
+Cinta de vacaciones especiales.
 A Ribbon to cherish a special memory.
-A Ribbon to cherish a special memory.
+Una cinta conmemorativa obtenida en un lugar misterioso.
 A Ribbon said to make your wish come true.
-A Ribbon said to make your wish come true.
+Una cinta conmemorativa obtenida en un lugar misterioso.
 A Ribbon awarded for overcoming all difficult challenges.
-A Ribbon awarded for overcoming all difficult challenges.
+Una cinta otorgada por superar todos los desafíos difíciles.
 Pokémon League Champion Ribbon.
-Pokémon League Champion Ribbon.
+Cinta de Campeón.
 Battle Competition Champion Ribbon.
-Battle Competition Champion Ribbon.
+Cinta de Campeón de Competición de Batalla.
 Pokémon World Championships Regional Champion Ribbon.
-Pokémon World Championships Regional Champion Ribbon.
+Cinta de Campeón Regional del Campeonato Mundial de Videojuegos Pokémon.
 A Ribbon awarded for winning 100 matches in a row.
-A Ribbon awarded for winning 100 matches in a row.
+Una cinta otorgada por ganar 100 combates seguidos.
 Pokémon World Championships National Champion Ribbon.
-Pokémon World Championships National Champion Ribbon.
+Cinta de Campeón Nacional del Campeonato Mundial de Videojuegos Pokémon.
 Pokémon World Championships World Champion Ribbon.
-Pokémon World Championships World Champion Ribbon.
+Cinta de Campeón Mundial del Campeonato Mundial de Videojuegos Pokémon.

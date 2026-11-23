@@ -3,208 +3,208 @@
 #-------------------------------
 [ITEM_PORTION_NAMES]
 jar of Honey
-jar of Honey
+tarro de Miel
 piece of Black Augurite
-piece of Black Augurite
+trozo de Mineral Negro
 hunk of Metal Alloy
-hunk of Metal Alloy
+bloque de Metal Compuesto
 set of Malicious Armor
-set of Malicious Armor
+juego de Armadura Maldita
 set of Auspicious Armor
-set of Auspicious Armor
+juego de Armadura Auspiciosa
 bag of Stardust
-bag of Stardust
+bolsa de Polvo Estelar
 Relic Copper coin
-Relic Copper coin
+Real de Cobre
 Relic Silver coin
-Relic Silver coin
+Real de Plata
 Relic Gold coin
-Relic Gold coin
+Real de Oro
 bag of Growth Mulch
-bag of Growth Mulch
+bolsa de Abono Rápido
 bag of Damp Mulch
-bag of Damp Mulch
+bolsa de Abono Lento
 bag of Stable Mulch
-bag of Stable Mulch
+bolsa de Abono Fijador
 bag of Gooey Mulch
-bag of Gooey Mulch
+bolsa de Abono Brote
 pile of Shoal Salt
-pile of Shoal Salt
+montón de Sal Cardumen
 jar of Red Nectar
-jar of Red Nectar
+tarro de Néctar Rojo
 jar of Yellow Nectar
-jar of Yellow Nectar
+tarro de Néctar Amarillo
 jar of Pink Nectar
-jar of Pink Nectar
+tarro de Néctar Rosa
 jar of Purple Nectar
-jar of Purple Nectar
+tarro de Néctar Violeta
 piece of Grass Mail
-piece of Grass Mail
+Carta Hierba
 piece of Flame Mail
-piece of Flame Mail
+Carta Fuego
 piece of Bubble Mail
-piece of Bubble Mail
+Carta Pompas
 piece of Bloom Mail
-piece of Bloom Mail
+Carta Flores
 piece of Tunnel Mail
-piece of Tunnel Mail
+Carta Mina
 piece of Steel Mail
-piece of Steel Mail
+Carta Acero
 piece of Heart Mail
-piece of Heart Mail
+Carta Corazón
 piece of Snow Mail
-piece of Snow Mail
+Carta Nieve
 piece of Space Mail
-piece of Space Mail
+Carta Sideral
 piece of Air Mail
-piece of Air Mail
+Carta Aérea
 piece of Mosaic Mail
-piece of Mosaic Mail
+Carta Mosaico
 piece of Brick Mail
-piece of Brick Mail
+Carta Pared
 bag of Sacred Ash
-bag of Sacred Ash
+bolsa de Ceniza Sagrada
 bag of Pewter Crunchies
-bag of Pewter Crunchies
+bolsa de Rokikos
 cup of Berry Juice
-cup of Berry Juice
+vaso de Zumo de Baya
 bottle of Fresh Water
-bottle of Fresh Water
+botella de Agua Fresca
 bottle of Soda Pop
-bottle of Soda Pop
+botella de Refresco
 can of Lemonade
-can of Lemonade
+lata de Limonada
 bottle of Moomoo Milk
-bottle of Moomoo Milk
+botella de Leche Mu-mu
 dose of Energy Powder
-dose of Energy Powder
+dosis de Polvo Energía
 dose of Heal Powder
-dose of Heal Powder
+dosis de Polvo Curación
 comb of Max Honey
-comb of Max Honey
+Maxipanal
 bottle of PP Up
-bottle of PP Up
+botella de Más PP
 bottle of PP Max
-bottle of PP Max
+botella de PP Máximos
 bottle of HP Up
-bottle of HP Up
+botella de Más PS
 bottle of Protein
-bottle of Protein
+botella de Proteína
 bottle of Iron
-bottle of Iron
+botella de Hierro
 bottle of Calcium
-bottle of Calcium
+botella de Calcio
 bottle of Zinc
-bottle of Zinc
+botella de Zinc
 bottle of Carbos
-bottle of Carbos
+botella de Carbohidratos
 sprig of Lonely Mint
-sprig of Lonely Mint
+ramita de Menta Huraña
 sprig of Adamant Mint
-sprig of Adamant Mint
+ramita de Menta Firme
 sprig of Naughty Mint
-sprig of Naughty Mint
+ramita de Menta Pícara
 sprig of Brave Mint
-sprig of Brave Mint
+ramita de Menta Audaz
 sprig of Bold Mint
-sprig of Bold Mint
+ramita de Menta Osada
 sprig of Impish Mint
-sprig of Impish Mint
+ramita de Menta Agitada
 sprig of Lax Mint
-sprig of Lax Mint
+ramita de Menta Floja
 sprig of Relaxed Mint
-sprig of Relaxed Mint
+ramita de Menta Plácida
 sprig of Modest Mint
-sprig of Modest Mint
+ramita de Menta Modesta
 sprig of Mild Mint
-sprig of Mild Mint
+ramita de Menta Afable
 sprig of Rash Mint
-sprig of Rash Mint
+ramita de Menta Alocada
 sprig of Quiet Mint
-sprig of Quiet Mint
+ramita de Menta Mansa
 sprig of Calm Mint
-sprig of Calm Mint
+ramita de Menta Serena
 sprig of Gentle Mint
-sprig of Gentle Mint
+ramita de Menta Amable
 sprig of Careful Mint
-sprig of Careful Mint
+ramita de Menta Cauta
 sprig of Sassy Mint
-sprig of Sassy Mint
+ramita de Menta Grosera
 sprig of Timid Mint
-sprig of Timid Mint
+ramita de Menta Miedosa
 sprig of Hasty Mint
-sprig of Hasty Mint
+ramita de Menta Activa
 sprig of Jolly Mint
-sprig of Jolly Mint
+ramita de Menta Alegre
 sprig of Naive Mint
-sprig of Naive Mint
+ramita de Menta Ingenua
 sprig of Serious Mint
-sprig of Serious Mint
+ramita de Menta Seria
 bag of Bright Powder
-bag of Bright Powder
+bolsa de Polvo Brillo
 pair of Safety Goggles
-pair of Safety Goggles
+Gafas Protectoras
 set of Protective Pads
-set of Protective Pads
+juego de Paracontacto
 pair of Heavy-Duty Boots
-pair of Heavy-Duty Boots
+par de Botas Gruesas
 pair of Choice Specs
-pair of Choice Specs
+par de Gafas Elección
 lump of Light Clay
-lump of Light Clay
+trozo de Refleluz
 set of Loaded Dice
-set of Loaded Dice
+juego de Dados Trucados
 blob of Black Sludge
-blob of Black Sludge
+pegote de Lodo Negro
 serving of Leftovers
-serving of Leftovers
+porción de Restos
 clump of Luminous Moss
-clump of Luminous Moss
+mata de Musgo Brillante
 bottle of Throat Spray
-bottle of Throat Spray
+botella de Espray Bucal
 capsule of Booster Energy
-capsule of Booster Energy
+cápsula de Energía Potenciadora
 voucher for Room Service
-voucher for Room Service
+vale de Servicio Raro
 pair of Wise Glasses
-pair of Wise Glasses
+par de Gafas Especiales
 jar of Lax Incense
-jar of Lax Incense
+tarro de Incienso Suave
 jar of Full Incense
-jar of Full Incense
+tarro de Incienso Lento
 jar of Luck Incense
-jar of Luck Incense
+tarro de Incienso Duplo
 jar of Pure Incense
-jar of Pure Incense
+tarro de Incienso Puro
 jar of Sea Incense
-jar of Sea Incense
+tarro de Incienso Marino
 jar of Wave Incense
-jar of Wave Incense
+tarro de Incienso Aqua
 jar of Rose Incense
-jar of Rose Incense
+tarro de Incienso Floral
 jar of Odd Incense
-jar of Odd Incense
+tarro de Incienso Raro
 jar of Rock Incense
-jar of Rock Incense
+tarro de Incienso Roca
 piece of Charcoal
-piece of Charcoal
+trozo de Carbón
 piece of Never-Melt Ice
-piece of Never-Melt Ice
+trozo de Hielo Perpetuo
 bag of Soft Sand
-bag of Soft Sand
+bolsa de Arena Fina
 pile of Silver Powder
-pile of Silver Powder
+montón de Polvo Plata
 pair of Black Glasses
-pair of Black Glasses
+par de Gafas de Sol
 bag of Metal Powder
-bag of Metal Powder
+bolsa de Polvo Metálico
 bag of Quick Powder
-bag of Quick Powder
+bolsa de Polvo Veloz
 scrap of Reaper Cloth
-scrap of Reaper Cloth
+retal de Tela Terrible
 dollop of Whipped Dream
-dollop of Whipped Dream
+porción de Dulce de Nata
 cluster of Max Mushrooms
-cluster of Max Mushrooms
+racimo de Maxisetas
 set of Reins of Unity
-set of Reins of Unity
+juego de Riendas Unión

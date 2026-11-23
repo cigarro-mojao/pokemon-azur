@@ -3,98 +3,98 @@
 #-------------------------------
 [TRAINER_TYPE_NAMES]
 Pokémon Trainer
-Pokémon Trainer
+Entrenador Pokémon
 Rival
 Rival
 Aroma Lady
-Aroma Lady
+Señorita Aroma
 Beauty
-Beauty
+Modelo
 Biker
-Biker
+Ciclista
 Bird Keeper
-Bird Keeper
+Ornitólogo
 Bug Catcher
-Bug Catcher
+Cazabichos
 Burglar
-Burglar
+Ladrón
 Channeler
-Channeler
+Exorcista
 Cue Ball
-Cue Ball
+Calvo
 Engineer
-Engineer
+Ingeniero
 Fisherman
-Fisherman
+Pescador
 Gambler
-Gambler
+Jugón
 Gentleman
-Gentleman
+Caballero
 Hiker
-Hiker
+Montañero
 Juggler
-Juggler
+Malabarista
 Lady
-Lady
+Damisela
 Painter
-Painter
+Pintora
 Poké Maniac
-Poké Maniac
+Poké maníaco
 Pokémon Breeder
-Pokémon Breeder
+Criapokémon
 Professor
-Professor
+Profesor
 Rocker
-Rocker
+Rockero
 Ruin Maniac
-Ruin Maniac
+Ruinmaníaco
 Sailor
-Sailor
+Marinero
 Scientist
-Scientist
+Científico
 Super Nerd
-Super Nerd
+Cerebrito
 Tamer
-Tamer
+Domador
 Black Belt
-Black Belt
+Karateka
 Crush Girl
-Crush Girl
+Luchadora
 Camper
-Camper
+Dominguero
 Picnicker
-Picnicker
+Dominguera
 Cool Trainer
-Cool Trainer
+Entrenador Guay
 Youngster
-Youngster
+Joven
 Lass
-Lass
+Chica
 Pokémon Ranger
-Pokémon Ranger
+Ranger Pokémon
 Psychic
-Psychic
+Médium
 Swimmer
-Swimmer
+Nadador
 Tuber
-Tuber
+Playero
 Cool Couple
-Cool Couple
+Dúo Guay
 Crush Kin
-Crush Kin
+Dúo Fuerte
 Sis and Bro
-Sis and Bro
+Hermanos
 Twins
-Twins
+Gemelos
 Young Couple
-Young Couple
+Pareja Joven
 Team Rocket
 Team Rocket
 Rocket Boss
-Rocket Boss
+Jefe Rocket
 Gym Leader
-Gym Leader
+Líder de Gimnasio
 Elite Four
-Elite Four
+Alto Mando
 Champion
-Champion
+Campeón

@@ -3,628 +3,628 @@
 #-------------------------------
 [ABILITY_NAMES]
 Stench
-Stench
+Hedor
 Drizzle
-Drizzle
+Llovizna
 Speed Boost
-Speed Boost
+Impulso
 Battle Armor
-Battle Armor
+Armadura Batalla
 Sturdy
-Sturdy
+Robustez
 Damp
-Damp
+Humedad
 Limber
-Limber
+Flexibilidad
 Sand Veil
-Sand Veil
+Velo Arena
 Static
-Static
+Electricidad Estática
 Volt Absorb
-Volt Absorb
+Absorbe Electricidad
 Water Absorb
-Water Absorb
+Absorbe Agua
 Oblivious
-Oblivious
+Despiste
 Cloud Nine
-Cloud Nine
+Aclimatación
 Compound Eyes
-Compound Eyes
+Ojo Compuesto
 Insomnia
-Insomnia
+Insomnio
 Color Change
-Color Change
+Cambio Color
 Immunity
-Immunity
+Inmunidad
 Flash Fire
-Flash Fire
+Absorbe Fuego
 Shield Dust
-Shield Dust
+Polvo Escudo
 Own Tempo
-Own Tempo
+Ritmo Propio
 Suction Cups
-Suction Cups
+Ventosas
 Intimidate
-Intimidate
+Intimidación
 Shadow Tag
-Shadow Tag
+Sombra Trampa
 Rough Skin
-Rough Skin
+Piel Tosca
 Wonder Guard
-Wonder Guard
+Superguarda
 Levitate
-Levitate
+Levitación
 Effect Spore
-Effect Spore
+Efecto Espora
 Synchronize
-Synchronize
+Sincronía
 Clear Body
-Clear Body
+Cuerpo Puro
 Natural Cure
-Natural Cure
+Cura Natural
 Lightning Rod
-Lightning Rod
+Pararrayos
 Serene Grace
-Serene Grace
+Dicha
 Swift Swim
-Swift Swim
+Nado Rápido
 Chlorophyll
-Chlorophyll
+Clorofila
 Illuminate
-Illuminate
+Iluminación
 Trace
-Trace
+Calco
 Huge Power
-Huge Power
+Potencia
 Poison Point
-Poison Point
+Punto Tóxico
 Inner Focus
-Inner Focus
+Fuerza Mental
 Magma Armor
-Magma Armor
+Escudo Magma
 Water Veil
-Water Veil
+Velo Agua
 Magnet Pull
-Magnet Pull
+Imán
 Soundproof
-Soundproof
+Insonorizar
 Rain Dish
-Rain Dish
+Cura Lluvia
 Sand Stream
-Sand Stream
+Chorro Arena
 Pressure
-Pressure
+Presión
 Thick Fat
-Thick Fat
+Sebo
 Early Bird
-Early Bird
+Madrugar
 Flame Body
-Flame Body
+Cuerpo Llama
 Run Away
-Run Away
+Fuga
 Keen Eye
-Keen Eye
+Vista Lince
 Hyper Cutter
-Hyper Cutter
+Corte Fuerte
 Pickup
-Pickup
+Recogida
 Truant
-Truant
+Pereza
 Hustle
-Hustle
+Entusiasmo
 Cute Charm
-Cute Charm
+Gran Encanto
 Plus
-Plus
+Más
 Minus
-Minus
+Menos
 Forecast
-Forecast
+Predicción
 Sticky Hold
-Sticky Hold
+Viscosidad
 Shed Skin
-Shed Skin
+Mudar
 Guts
-Guts
+Agallas
 Marvel Scale
-Marvel Scale
+Escama Especial
 Liquid Ooze
-Liquid Ooze
+Viscosecreción
 Overgrow
-Overgrow
+Espesura
 Blaze
-Blaze
+Mar Llamas
 Torrent
-Torrent
+Torrente
 Swarm
-Swarm
+Enjambre
 Rock Head
-Rock Head
+Cabeza Roca
 Drought
-Drought
+Sequía
 Arena Trap
-Arena Trap
+Trampa Arena
 Vital Spirit
-Vital Spirit
+Espíritu Vital
 White Smoke
-White Smoke
+Humo Blanco
 Pure Power
-Pure Power
+Energía Pura
 Shell Armor
-Shell Armor
+Caparazón
 Air Lock
-Air Lock
+Esclusa de Aire
 Tangled Feet
-Tangled Feet
+Tumbos
 Motor Drive
-Motor Drive
+Electromotor
 Rivalry
-Rivalry
+Rivalidad
 Steadfast
-Steadfast
+Impasible
 Snow Cloak
-Snow Cloak
+Manto Níveo
 Gluttony
-Gluttony
+Gula
 Anger Point
-Anger Point
+Irascible
 Unburden
-Unburden
+Liviano
 Heatproof
-Heatproof
+Ignífugo
 Simple
 Simple
 Dry Skin
-Dry Skin
+Piel Seca
 Download
-Download
+Descarga
 Iron Fist
-Iron Fist
+Puño Férreo
 Poison Heal
-Poison Heal
+Antídoto
 Adaptability
-Adaptability
+Adaptable
 Skill Link
-Skill Link
+Encadenado
 Hydration
-Hydration
+Hidratación
 Solar Power
-Solar Power
+Poder Solar
 Quick Feet
-Quick Feet
+Pies Rápidos
 Normalize
-Normalize
+Normalidad
 Sniper
-Sniper
+Francotirador
 Magic Guard
-Magic Guard
+Muro Mágico
 No Guard
-No Guard
+Indefenso
 Stall
-Stall
+Rezagado
 Technician
-Technician
+Experto
 Leaf Guard
-Leaf Guard
+Defensa Hoja
 Klutz
-Klutz
+Zoquete
 Mold Breaker
-Mold Breaker
+Rompemoldes
 Super Luck
-Super Luck
+Afortunado
 Aftermath
-Aftermath
+Detonación
 Anticipation
-Anticipation
+Anticipación
 Forewarn
-Forewarn
+Alerta
 Unaware
-Unaware
+Ignorante
 Tinted Lens
-Tinted Lens
+Cromolente
 Filter
-Filter
+Filtro
 Slow Start
-Slow Start
+Inicio Lento
 Scrappy
-Scrappy
+Intrépido
 Storm Drain
-Storm Drain
+Colector
 Ice Body
-Ice Body
+Gélido
 Solid Rock
-Solid Rock
+Roca Sólida
 Snow Warning
-Snow Warning
+Nevada
 Honey Gather
-Honey Gather
+Recogemiel
 Frisk
-Frisk
+Cacheo
 Reckless
-Reckless
+Audaz
 Multitype
-Multitype
+Multitipo
 Flower Gift
-Flower Gift
+Don Floral
 Bad Dreams
-Bad Dreams
+Mal Sueño
 Pickpocket
-Pickpocket
+Hurto
 Sheer Force
-Sheer Force
+Potencia Bruta
 Contrary
-Contrary
+Respondón
 Unnerve
-Unnerve
+Nerviosismo
 Defiant
-Defiant
+Competitivo
 Defeatist
-Defeatist
+Flaqueza
 Cursed Body
-Cursed Body
+Cuerpo Maldito
 Healer
-Healer
+Alma Cura
 Friend Guard
-Friend Guard
+Compiescolta
 Weak Armor
-Weak Armor
+Armadura Frágil
 Heavy Metal
-Heavy Metal
+Metal Pesado
 Light Metal
-Light Metal
+Metal Liviano
 Multiscale
-Multiscale
+Multiescamas
 Toxic Boost
-Toxic Boost
+Ímpetu Tóxico
 Flare Boost
-Flare Boost
+Ímpetu Ardiente
 Harvest
-Harvest
+Cosecha
 Telepathy
-Telepathy
+Telepatía
 Moody
-Moody
+Veleta
 Overcoat
-Overcoat
+Funda
 Poison Touch
-Poison Touch
+Toque Tóxico
 Regenerator
-Regenerator
+Regeneración
 Big Pecks
-Big Pecks
+Sacapecho
 Sand Rush
-Sand Rush
+Ímpetu Arena
 Wonder Skin
-Wonder Skin
+Piel Milagro
 Analytic
-Analytic
+Cálculo Final
 Illusion
-Illusion
+Ilusión
 Imposter
-Imposter
+Impostor
 Infiltrator
-Infiltrator
+Allanamiento
 Mummy
-Mummy
+Momia
 Moxie
-Moxie
+Autoestima
 Justified
-Justified
+Justiciero
 Rattled
-Rattled
+Cobardía
 Magic Bounce
-Magic Bounce
+Espejo Mágico
 Sap Sipper
-Sap Sipper
+Herbívoro
 Prankster
-Prankster
+Bromista
 Sand Force
-Sand Force
+Poder Arena
 Iron Barbs
-Iron Barbs
+Punta Acero
 Zen Mode
-Zen Mode
+Modo Daruma
 Victory Star
-Victory Star
+Tinovictoria
 Turboblaze
-Turboblaze
+Turbollama
 Teravolt
-Teravolt
+Terravoltaje
 Aroma Veil
-Aroma Veil
+Velo Aroma
 Flower Veil
-Flower Veil
+Velo Flor
 Cheek Pouch
-Cheek Pouch
+Carrillo
 Protean
-Protean
+Mutatipo
 Fur Coat
-Fur Coat
+Pelaje Recio
 Magician
-Magician
+Prestidigitador
 Bulletproof
-Bulletproof
+Antibalas
 Competitive
-Competitive
+Tenacidad
 Strong Jaw
-Strong Jaw
+Mandíbula Fuerte
 Refrigerate
-Refrigerate
+Piel Helada
 Sweet Veil
-Sweet Veil
+Velo Dulce
 Stance Change
-Stance Change
+Cambio Táctico
 Gale Wings
-Gale Wings
+Alas Vendaval
 Mega Launcher
-Mega Launcher
+Megadisparador
 Grass Pelt
-Grass Pelt
+Manto Frondoso
 Symbiosis
-Symbiosis
+Simbiosis
 Tough Claws
-Tough Claws
+Garra Dura
 Pixilate
-Pixilate
+Piel Feérica
 Gooey
-Gooey
+Baba
 Aerilate
-Aerilate
+Piel Celeste
 Parental Bond
-Parental Bond
+Amor Filial
 Dark Aura
-Dark Aura
+Aura Oscura
 Fairy Aura
-Fairy Aura
+Aura Feérica
 Aura Break
-Aura Break
+Rompeaura
 Primordial Sea
-Primordial Sea
+Mar del Albor
 Desolate Land
-Desolate Land
+Tierra del Ocaso
 Delta Stream
-Delta Stream
+Ráfaga Delta
 Stamina
-Stamina
+Firmeza
 Wimp Out
-Wimp Out
+Huida
 Emergency Exit
-Emergency Exit
+Retirada
 Water Compaction
-Water Compaction
+Hidrorrefuerzo
 Merciless
-Merciless
+Ensañamiento
 Shields Down
-Shields Down
+Escudo Limitado
 Stakeout
-Stakeout
+Vigilante
 Water Bubble
-Water Bubble
+Pompa
 Steelworker
-Steelworker
+Acero Templado
 Berserk
-Berserk
+Cólera
 Slush Rush
-Slush Rush
+Quitanieves
 Long Reach
-Long Reach
+Remoto
 Liquid Voice
-Liquid Voice
+Voz Fluida
 Triage
-Triage
+Primer Auxilio
 Galvanize
-Galvanize
+Piel Eléctrica
 Surge Surfer
-Surge Surfer
+Cola Surf
 Schooling
-Schooling
+Banco
 Disguise
-Disguise
+Disfraz
 Battle Bond
-Battle Bond
+Fuerte Afecto
 Power Construct
-Power Construct
+Agrupamiento
 Corrosion
-Corrosion
+Corrosión
 Comatose
-Comatose
+Letargo Perenne
 Queenly Majesty
-Queenly Majesty
+Regia Presencia
 Innards Out
-Innards Out
+Revés
 Dancer
-Dancer
+Pareja de Baile
 Battery
-Battery
+Batería
 Fluffy
-Fluffy
+Peluche
 Dazzling
-Dazzling
+Cuerpo Vívido
 Soul-Heart
-Soul-Heart
+Coránima
 Tangling Hair
-Tangling Hair
+Rizos Rebeldes
 Receiver
-Receiver
+Receptor
 Power of Alchemy
-Power of Alchemy
+Reacción Química
 Beast Boost
-Beast Boost
+Ultraimpulso
 RKS System
-RKS System
+Sistema Alfa
 Electric Surge
-Electric Surge
+Electrogénesis
 Psychic Surge
-Psychic Surge
+Psicogénesis
 Misty Surge
-Misty Surge
+Nebulogénesis
 Grassy Surge
-Grassy Surge
+Herbogénesis
 Full Metal Body
-Full Metal Body
+Guardia Metálica
 Shadow Shield
-Shadow Shield
+Guardia Espectro
 Prism Armor
-Prism Armor
+Armadura Prisma
 Neuroforce
-Neuroforce
+Fuerza Cerebral
 Intrepid Sword
-Intrepid Sword
+Espada Indómita
 Dauntless Shield
-Dauntless Shield
+Escudo Recio
 Libero
-Libero
+Líbero
 Ball Fetch
-Ball Fetch
+Recogebolas
 Cotton Down
-Cotton Down
+Pelusa
 Propeller Tail
-Propeller Tail
+Hélice Caudal
 Mirror Armor
-Mirror Armor
+Coraza Reflejo
 Gulp Missile
-Gulp Missile
+Tragamisil
 Stalwart
-Stalwart
+Acérrimo
 Steam Engine
-Steam Engine
+Combustible
 Punk Rock
 Punk Rock
 Sand Spit
-Sand Spit
+Expulsarena
 Ice Scales
-Ice Scales
+Escama de Hielo
 Ripen
-Ripen
+Maduración
 Ice Face
-Ice Face
+Cara de Hielo
 Power Spot
-Power Spot
+Fuente Energía
 Mimicry
-Mimicry
+Mimetismo
 Screen Cleaner
-Screen Cleaner
+Antibarrera
 Steely Spirit
-Steely Spirit
+Alma Acerada
 Perish Body
-Perish Body
+Cuerpo Mortal
 Wandering Spirit
-Wandering Spirit
+Alma Errante
 Gorilla Tactics
-Gorilla Tactics
+Monotema
 Neutralizing Gas
-Neutralizing Gas
+Gas Reactivo
 Pastel Veil
-Pastel Veil
+Velo Pastel
 Hunger Switch
-Hunger Switch
+Mutapetito
 Quick Draw
-Quick Draw
+Mano Rápida
 Unseen Fist
-Unseen Fist
+Puño Invisible
 Curious Medicine
-Curious Medicine
+Medicina Extraña
 Transistor
 Transistor
 Dragon's Maw
-Dragon's Maw
+Mandíbula dragón
 Chilling Neigh
-Chilling Neigh
+Relincho Blanco
 Grim Neigh
-Grim Neigh
+Relincho Negro
 As One
-As One
+Unidad Ecuestre
 Lingering Aroma
-Lingering Aroma
+Olor Persistente
 Seed Sower
-Seed Sower
+Disemillar
 Thermal Exchange
-Thermal Exchange
+Termoconversión
 Anger Shell
-Anger Shell
+Coraza Ira
 Purifying Salt
-Purifying Salt
+Sal Purificadora
 Well-Baked Body
-Well-Baked Body
+Cuerpo Horneado
 Wind Rider
-Wind Rider
+Surcavientos
 Guard Dog
-Guard Dog
+Perro Guardián
 Rocky Payload
-Rocky Payload
+Transportarrocas
 Wind Power
-Wind Power
+Energía Eólica
 Zero to Hero
-Zero to Hero
+Cambio Heroico
 Commander
-Commander
+Comandar
 Electromorphosis
-Electromorphosis
+Dinamo
 Protosynthesis
-Protosynthesis
+Paleosíntesis
 Quark Drive
-Quark Drive
+Carga Cuark
 Good as Gold
-Good as Gold
+Cuerpo Áureo
 Vessel of Ruin
-Vessel of Ruin
+Caldero Debacle
 Sword of Ruin
-Sword of Ruin
+Espada Debacle
 Tablets of Ruin
-Tablets of Ruin
+Tablilla Debacle
 Beads of Ruin
-Beads of Ruin
+Abalorio Debacle
 Orichalcum Pulse
-Orichalcum Pulse
+Latido Oricalco
 Hadron Engine
-Hadron Engine
+Motor Hadrónico
 Opportunist
-Opportunist
+Oportunista
 Cud Chew
-Cud Chew
+Rumia
 Sharpness
-Sharpness
+Cortante
 Supreme Overlord
-Supreme Overlord
+General Supremo
 Costar
-Costar
+Unísono
 Toxic Debris
-Toxic Debris
+Capa Tóxica
 Armor Tail
-Armor Tail
+Cola Armadura
 Earth Eater
-Earth Eater
+Geofagia
 Mycelium Might
-Mycelium Might
+Poder Fúngico
 Hospitality
-Hospitality
+Hospitalidad
 Mind's Eye
-Mind's Eye
+Ojo Mental
 Embody Aspect
-Embody Aspect
+Evocarrecuerdos
 Toxic Chain
-Toxic Chain
+Cadena Tóxica
 Supersweet Syrup
-Supersweet Syrup
+Néctar Dulce
 Tera Shift
-Tera Shift
+Teracambio
 Tera Shell
-Tera Shell
+Teracaparazón
 Teraform Zero
-Teraform Zero
+Teraformación 0
 Poison Puppeteer
-Poison Puppeteer
+Títere Tóxico
 Piercing Drill
-Piercing Drill
+Turbotaladro
 Dragonize
-Dragonize
+Piel Dragontina
 Eelevate
-Eelevate
+Impulso Anguila
 Mega Sol
-Mega Sol
+Megasolar
 Fire Mane
-Fire Mane
+Crin de Fuego
 Spicy Spray
-Spicy Spray
+Salpicante
 Aura Guard
-Aura Guard
+Protección Aural

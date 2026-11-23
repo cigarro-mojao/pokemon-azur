@@ -1545,7 +1545,7 @@ Palossand
 Pyukumuku
 Pyukumuku
 Type: Null
-Type: Null
+Código Cero
 Silvally
 Silvally
 Minior
@@ -1969,29 +1969,29 @@ Dudunsparce
 Kingambit
 Kingambit
 Great Tusk
-Great Tusk
+Colmilargo
 Scream Tail
-Scream Tail
+Colagrito
 Brute Bonnet
-Brute Bonnet
+Furioseta
 Flutter Mane
-Flutter Mane
+Melenaleteo
 Slither Wing
-Slither Wing
+Reptalada
 Sandy Shocks
-Sandy Shocks
+Pelarena
 Iron Treads
-Iron Treads
+Ferrodada
 Iron Bundle
-Iron Bundle
+Ferrosaco
 Iron Hands
-Iron Hands
+Ferropalmas
 Iron Jugulis
-Iron Jugulis
+Ferrocuello
 Iron Moth
-Iron Moth
+Ferropolilla
 Iron Thorns
-Iron Thorns
+Ferropúas
 Frigibax
 Frigibax
 Arctibax
@@ -2011,17 +2011,17 @@ Ting-Lu
 Chi-Yu
 Chi-Yu
 Roaring Moon
-Roaring Moon
+Bramaluna
 Iron Valiant
-Iron Valiant
+Ferropaladín
 Koraidon
 Koraidon
 Miraidon
 Miraidon
 Walking Wake
-Walking Wake
+Ondulagua
 Iron Leaves
-Iron Leaves
+Ferroverdor
 Dipplin
 Dipplin
 Poltchageist
@@ -2041,13 +2041,13 @@ Archaludon
 Hydrapple
 Hydrapple
 Gouging Fire
-Gouging Fire
+Flamariete
 Raging Bolt
-Raging Bolt
+Electrofuria
 Iron Boulder
-Iron Boulder
+Ferromole
 Iron Crown
-Iron Crown
+Ferrotesta
 Terapagos
 Terapagos
 Pecharunt

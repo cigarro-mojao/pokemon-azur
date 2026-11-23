@@ -3,101 +3,101 @@
 #-------------------------------
 [SPECIES_FORM_NAMES]
 A
-A
+Forma Letra A
 Normal Form
-Normal Form
+Forma Normal
 Normal Forme
-Normal Forme
+Forma Normal
 Plant Cloak
-Plant Cloak
+Forma Tronco Planta
 Overcast Form
-Overcast Form
+Forma Encapotada
 West Sea
-West Sea
+Forma Mar Oeste
 Rotom
-Rotom
+Forma Normal
 Altered Forme
-Altered Forme
+Forma Origen
 Land Forme
-Land Forme
+Forma Tierra
 Normal Type
-Normal Type
+Tipo Normal
 Red-Striped
-Red-Striped
+Forma Raya Blanca
 Standard Mode
-Standard Mode
+Modo Normal
 Spring Form
-Spring Form
+Forma Primavera
 Incarnate Forme
-Incarnate Forme
+Forma Avatar
 Ordinary Form
-Ordinary Form
+Forma Habitual
 Aria Forme
-Aria Forme
+Forma Lírica
 Normal
-Normal
+Forma Normal
 Archipelago Pattern
-Archipelago Pattern
+Motivo Floral
 Red Flower
-Red Flower
+Forma Flor Roja
 Natural Form
-Natural Form
+Forma Salvaje
 Male
-Male
+Forma Macho
 Shield Forme
-Shield Forme
+Forma Escudo
 Small Variety
-Small Variety
+Tamaño Pequeño
 Neutral Mode
-Neutral Mode
+Modo Relajado
 50% Forme
-50% Forme
+Forma 50%
 Hoopa Confined
-Hoopa Confined
+Forma Contenido
 Baile Style
-Baile Style
+Forma Estilo Apasionado
 Midday Form
-Midday Form
+Forma Diurna
 Solo Form
-Solo Form
+Forma Individual
 Type: Normal
-Type: Normal
+Tipo Normal
 Meteor Form
-Meteor Form
+Forma Meteorito
 Disguised Form
-Disguised Form
+Forma Encubierta
 Amped Form
-Amped Form
+Forma Aguda
 Phony Form
-Phony Form
+Forma Falsificada
 Vanilla Cream
-Vanilla Cream
+Forma Crema de Vainilla Confite fresa
 Ice Face
-Ice Face
+Forma Cara de Hielo
 Full Belly Mode
-Full Belly Mode
+Forma Saciada
 Hero of Many Battles
-Hero of Many Battles
+Forma Guerrero Avezado
 Single Strike Style
-Single Strike Style
+Estilo Brusco
 Family of Four
-Family of Four
+Forma Familia de Cuatro
 Green Plumage
-Green Plumage
+Forma Plumaje Verde
 Zero Form
-Zero Form
+Forma Ingenua
 Curly Form
-Curly Form
+Forma Curvada
 Two-Segment Form
-Two-Segment Form
+Forma Binodular
 Chest Form
-Chest Form
+Forma Cofre
 Counterfeit Form
-Counterfeit Form
+Forma Fraudulenta
 Unremarkable Form
-Unremarkable Form
+Forma Mediocre
 Teal Mask
-Teal Mask
+Forma Máscara Turquesa
 Mega Venusaur
 Mega Venusaur
 Mega Charizard X
@@ -111,17 +111,17 @@ Mega Beedrill
 Mega Pidgeot
 Mega Pidgeot
 Alolan
-Alolan
+Forma Alola
 Mega Raichu X
-Mega Raichu X
+Mega Raichu x
 Mega Raichu Y
 Mega Raichu Y
 Mega Clefable
 Mega Clefable
 Galarian
-Galarian
+Forma Galar
 Hisuian
-Hisuian
+Forma Hisui
 Mega Alakazam
 Mega Alakazam
 Mega Victreebel
@@ -137,11 +137,11 @@ Mega Starmie
 Mega Pinsir
 Mega Pinsir
 Paldean (Combat Breed)
-Paldean (Combat Breed)
+Forma Paldea (Combatiente)
 Paldean (Blaze Breed)
-Paldean (Blaze Breed)
+Forma Paldea (Ardiente)
 Paldean (Aqua Breed)
-Paldean (Aqua Breed)
+Forma Paldea (Acuática)
 Mega Gyarados
 Mega Gyarados
 Mega Aerodactyl
@@ -157,65 +157,65 @@ Mega Meganium
 Mega Feraligatr
 Mega Feraligatr
 Spiky-Eared
-Spiky-Eared
+Forma Picoreja
 Mega Ampharos
 Mega Ampharos
 Paldean
-Paldean
+Forma Paldea
 B
-B
+Forma Letra B
 C
-C
+Forma Letra C
 D
-D
+Forma Letra D
 E
-E
+Forma Letra E
 F
-F
+Forma Letra F
 G
-G
+Forma Letra G
 H
-H
+Forma Letra H
 I
-I
+Forma Letra I
 J
-J
+Forma Letra J
 K
-K
+Forma Letra K
 L
-L
+Forma Letra L
 M
-M
+Forma Letra M
 N
-N
+Forma Letra N
 O
-O
+Forma Letra O
 P
-P
+Forma Letra P
 Q
-Q
+Forma Letra Q
 R
-R
+Forma Letra R
 S
-S
+Forma Letra S
 T
-T
+Forma Letra T
 U
-U
+Forma Letra U
 V
-V
+Forma Letra V
 W
-W
+Forma Letra W
 X
-X
+Forma Letra X
 Y
-Y
+Forma Letra Y
 Z
-Z
+Forma Letra Z
 ?
-?
+Forma Signo ?
 !
-!
+Forma Signo !
 Mega Steelix
 Mega Steelix
 Mega Scizor
@@ -253,11 +253,11 @@ Mega Camerupt
 Mega Altaria
 Mega Altaria
 Sunny Form
-Sunny Form
+Forma Sol
 Rainy Form
-Rainy Form
+Forma Lluvia
 Snowy Form
-Snowy Form
+Forma Nieve
 Mega Banette
 Mega Banette
 Mega Chimecho
@@ -277,27 +277,27 @@ Mega Latias
 Mega Latios
 Mega Latios
 Primal Kyogre
-Primal Kyogre
+Forma Primigenia
 Primal Groudon
-Primal Groudon
+Forma Primigenia
 Mega Rayquaza
 Mega Rayquaza
 Attack Forme
-Attack Forme
+Forma Ataque
 Defense Forme
-Defense Forme
+Forma Defensa
 Speed Forme
-Speed Forme
+Forma Velocidad
 Mega Staraptor
 Mega Staraptor
 Sandy Cloak
-Sandy Cloak
+Forma Tronco Arena
 Trash Cloak
-Trash Cloak
+Forma Tronco Basura
 Sunshine Form
-Sunshine Form
+Forma Soleada
 East Sea
-East Sea
+Forma Mar Este
 Mega Lopunny
 Mega Lopunny
 Mega Garchomp
@@ -315,59 +315,59 @@ Mega Gallade
 Mega Froslass
 Mega Froslass
 Heat Rotom
-Heat Rotom
+Forma Calor
 Wash Rotom
-Wash Rotom
+Forma Lavado
 Frost Rotom
-Frost Rotom
+Forma Frío
 Fan Rotom
-Fan Rotom
+Forma Ventilador
 Mow Rotom
-Mow Rotom
+Forma Corte
 Origin Forme
-Origin Forme
+Forma Origen
 Mega Heatran
 Mega Heatran
 Mega Darkrai
 Mega Darkrai
 Sky Forme
-Sky Forme
+Forma Cielo
 Fighting Type
-Fighting Type
+Tipo Lucha
 Flying Type
-Flying Type
+Tipo Volador
 Poison Type
-Poison Type
+Tipo Veneno
 Ground Type
-Ground Type
+Tipo Tierra
 Rock Type
-Rock Type
+Tipo Roca
 Bug Type
-Bug Type
+Tipo Bicho
 Ghost Type
-Ghost Type
+Tipo Fantasma
 Steel Type
-Steel Type
+Tipo Acero
 Unknown Type
-Unknown Type
+Tipo Desconocido
 Fire Type
-Fire Type
+Tipo Fuego
 Water Type
-Water Type
+Tipo Agua
 Grass Type
-Grass Type
+Tipo Planta
 Electric Type
-Electric Type
+Tipo Eléctrico
 Psychic Type
-Psychic Type
+Tipo Psíquico
 Ice Type
-Ice Type
+Tipo Hielo
 Dragon Type
-Dragon Type
+Tipo Dragón
 Dark Type
-Dark Type
+Tipo Siniestro
 Fairy Type
-Fairy Type
+Tipo Hada
 Mega Emboar
 Mega Emboar
 Mega Excadrill
@@ -377,23 +377,23 @@ Mega Audino
 Mega Scolipede
 Mega Scolipede
 Blue-Striped
-Blue-Striped
+Raya Azul
 White-Striped
-White-Striped
+Forma Raya Roja
 Zen Mode
-Zen Mode
+Forma Daruma
 Galarian Standard Mode
-Galarian Standard Mode
+Forma Galar
 Galarian Zen Mode
-Galarian Zen Mode
+Forma Daruma de Galar
 Mega Scrafty
 Mega Scrafty
 Summer Form
-Summer Form
+Forma Verano
 Autumn Form
-Autumn Form
+Forma Otoño
 Winter Form
-Winter Form
+Forma Invierno
 Mega Eelektross
 Mega Eelektross
 Mega Chandelure
@@ -401,107 +401,107 @@ Mega Chandelure
 Mega Golurk
 Mega Golurk
 Therian Forme
-Therian Forme
+Forma Tótem
 White Kyurem
-White Kyurem
+Forma Blanca
 Black Kyurem
-Black Kyurem
+Forma Negra
 Resolute Form
-Resolute Form
+Forma Brío
 Pirouette Forme
-Pirouette Forme
+Forma Danza
 Shock Drive
-Shock Drive
+Forma FulgoROM
 Burn Drive
-Burn Drive
+Forma PiroROM
 Chill Drive
-Chill Drive
+Forma CrioROM
 Douse Drive
-Douse Drive
+Forma HidroROM
 Mega Chesnaught
 Mega Chesnaught
 Mega Delphox
 Mega Delphox
 Ash-Greninja
-Ash-Greninja
+Greninja Ash
 Mega Greninja
 Mega Greninja
 Continental Pattern
-Continental Pattern
+Motivo Isleño
 Elegant Pattern
-Elegant Pattern
+Motivo Continental
 Garden Pattern
-Garden Pattern
+Motivo Oriental
 High Plains Pattern
-High Plains Pattern
+Motivo Vergel
 Icy Snow Pattern
-Icy Snow Pattern
+Motivo Estepa
 Jungle Pattern
-Jungle Pattern
+Motivo Polar
 Marine Pattern
-Marine Pattern
+Motivo Jungla
 Meadow Pattern
-Meadow Pattern
+Motivo Marino
 Modern Pattern
-Modern Pattern
+Motivo Moderno
 Monsoon Pattern
-Monsoon Pattern
+Motivo Monzón
 Ocean Pattern
-Ocean Pattern
+Motivo Océano
 Polar Pattern
-Polar Pattern
+Motivo Taiga
 River Pattern
-River Pattern
+Motivo Oasis
 Sandstorm Pattern
-Sandstorm Pattern
+Motivo Desierto
 Savanna Pattern
-Savanna Pattern
+Motivo Pantano
 Sun Pattern
-Sun Pattern
+Motivo Solar
 Tundra Pattern
-Tundra Pattern
+Motivo Tundra
 Fancy Pattern
-Fancy Pattern
+Motivo Fantasía
 Poké Ball Pattern
-Poké Ball Pattern
+Motivo Poké Ball
 Mega Pyroar
 Mega Pyroar
 Yellow Flower
-Yellow Flower
+Forma Flor Amarilla
 Orange Flower
-Orange Flower
+Forma Flor Naranja
 Blue Flower
-Blue Flower
+Forma Flor Azul
 White Flower
-White Flower
+Forma Flor Blanca
 Eternal Flower
-Eternal Flower
+Forma Flor Eterna
 Mega Floette
 Mega Floette
 Heart Trim
-Heart Trim
+Forma Corte Corazón
 Star Trim
-Star Trim
+Forma Corte Estrella
 Diamond Trim
-Diamond Trim
+Forma Corte Rombo
 Debutante Trim
-Debutante Trim
+Forma Corte Señorita
 Matron Trim
-Matron Trim
+Forma Corte Dama
 Dandy Trim
-Dandy Trim
+Forma Corte Caballero
 La Reine Trim
-La Reine Trim
+Forma Corte Aristocrático
 Kabuki Trim
-Kabuki Trim
+Forma Corte Kabuki
 Pharaoh Trim
-Pharaoh Trim
+Forma Forma Corte Faraónico
 Female
-Female
+Forma Hembra
 Mega Meowstic
 Mega Meowstic
 Blade Forme
-Blade Forme
+Forma Filo
 Mega Malamar
 Mega Malamar
 Mega Barbaracle
@@ -511,192 +511,192 @@ Mega Dragalge
 Mega Hawlucha
 Mega Hawlucha
 Medium Variety
-Medium Variety
+Tamaño Normal
 Large Variety
-Large Variety
+Tamaño Grande
 Jumbo Variety
-Jumbo Variety
+Tamaño Extragrande
 Active Mode
-Active Mode
+Modo Activo
 10% Forme
-10% Forme
+Forma 10%
 Complete Forme
-Complete Forme
+Forma Completa
 Mega Zygarde
 Mega Zygarde
 Mega Diancie
 Mega Diancie
 Hoopa Unbound
-Hoopa Unbound
+Forma Desatada
 Mega Crabominable
 Mega Crabominable
 Pom-Pom Style
-Pom-Pom Style
+Estilo Animado
 Pa'u Style
-Pa'u Style
+Estilo Plácido
 Sensu Style
-Sensu Style
+Estilo Refinado
 Midnight Form
-Midnight Form
+Forma Nocturna
 Dusk Form
-Dusk Form
+Forma Crepuscular
 School Form
-School Form
+Forma Banco
 Mega Golisopod
 Mega Golisopod
 Type: Fighting
-Type: Fighting
+Tipo Lucha
 Type: Flying
-Type: Flying
+Tipo Volador
 Type: Poison
-Type: Poison
+Tipo Veneno
 Type: Ground
-Type: Ground
+Tipo Tierra
 Type: Rock
-Type: Rock
+Tipo Roca
 Type: Bug
-Type: Bug
+Tipo Bicho
 Type: Ghost
-Type: Ghost
+Tipo Fantasma
 Type: Steel
-Type: Steel
+Tipo Acero
 Type: Unknown
-Type: Unknown
+Tipo Desconocido
 Type: Fire
-Type: Fire
+Tipo Fuego
 Type: Water
-Type: Water
+Tipo Agua
 Type: Grass
-Type: Grass
+Tipo Planta
 Type: Electric
-Type: Electric
+Tipo Eléctrico
 Type: Psychic
-Type: Psychic
+Tipo Psíquico
 Type: Ice
-Type: Ice
+Tipo Hielo
 Type: Dragon
-Type: Dragon
+Tipo Dragón
 Type: Dark
-Type: Dark
+Tipo Siniestro
 Type: Fairy
-Type: Fairy
+Tipo Hada
 Red Core
-Red Core
+Forma Núcleo Rojo
 Orange Core
-Orange Core
+Forma Núcleo Naranja
 Yellow Core
-Yellow Core
+Forma Núcleo Amarillo
 Green Core
-Green Core
+Forma Núcleo Verde
 Blue Core
-Blue Core
+Forma Núcleo Azul
 Indigo Core
-Indigo Core
+Forma Núcleo Añil
 Violet Core
-Violet Core
+Forma Núcleo Violeta
 Busted Form
-Busted Form
+Forma Descubierta
 Mega Drampa
 Mega Drampa
 Dusk Mane
-Dusk Mane
+Forma Melena Crepuscular
 Dawn Wings
-Dawn Wings
+Forma Alas del Alba
 Ultra Necrozma
-Ultra Necrozma
+Forma Ultra-Necrozma
 Original Color
-Original Color
+Forma Color Vetusta
 Mega Magearna
 Mega Magearna
 Mega Magearna (Original Color)
-Mega Magearna (Original Color)
+Mega Magearna Forma Color Vetusta
 Mega Zeraora
 Mega Zeraora
 Gulping Form
-Gulping Form
+Forma Tragatodo
 Gorging Form
-Gorging Form
+Forma Engulletodo
 Low Key Form
-Low Key Form
+Forma Grave
 Antique Form
-Antique Form
+Forma Genuina
 Ruby Cream
-Ruby Cream
+Forma Crema Rosa Confite fresa
 Matcha Cream
-Matcha Cream
+Forma Crema de Té Confite fresa
 Mint Cream
-Mint Cream
+Forma Crema de Menta Confite fresa
 Lemon Cream
-Lemon Cream
+Forma Crema de Limón Confite fresa
 Salted Cream
-Salted Cream
+Forma Crema Salada Confite fresa
 Ruby Swirl
-Ruby Swirl
+Forma Mezcla Rosa Confite fresa
 Caramel Swirl
-Caramel Swirl
+Forma Mezcla Caramelo Confite fresa
 Rainbow Swirl
-Rainbow Swirl
+Forma Mezcla Tres Sabores Confite fresa
 Mega Falinks
 Mega Falinks
 Noice Face
-Noice Face
+Forma Cara Deshielo
 Hangry Mode
-Hangry Mode
+Forma Voraz
 Crowned Sword
-Crowned Sword
+Forma Espada Suprema
 Crowned Shield
-Crowned Shield
+Forma Escudo Supremo
 Rapid Strike Style
-Rapid Strike Style
+Estilo Fluido
 Ice Rider
-Ice Rider
+Forma Jinete Glacial
 Shadow Rider
-Shadow Rider
+Forma Jinete Espectral
 Bloodmoon Ursaluna
-Bloodmoon Ursaluna
+Forma Luna Carmesí
 Therian Form
-Therian Form
+Forma Tótem
 Family of Three
-Family of Three
+Familia de Tres
 Blue Plumage
-Blue Plumage
+Plumaje Azul
 Yellow Plumage
-Yellow Plumage
+Plumaje Amarillo
 White Plumage
-White Plumage
+Plumaje Blanco
 Mega Scovillain
 Mega Scovillain
 Hero Form
-Hero Form
+Forma Heroica
 Mega Glimmora
 Mega Glimmora
 Droopy Form
-Droopy Form
+Forma Lánguida
 Stretchy Form
-Stretchy Form
+Forma Recta
 Mega Tatsugiri (Curly Form)
-Mega Tatsugiri (Curly Form)
+Mega Tatsugiri Forma Curvada
 Mega Tatsugiri (Droopy Form)
-Mega Tatsugiri (Droopy Form)
+Mega Tatsugiri Forma Lánguida
 Mega Tatsugiri (Stretchy Form)
-Mega Tatsugiri (Stretchy Form)
+Mega Tatsugiri Forma Recta
 Three-Segment Form
-Three-Segment Form
+Forma Trinodular
 Mega Baxcalibur
 Mega Baxcalibur
 Roaming Form
-Roaming Form
+Forma Andante
 Artisan Form
-Artisan Form
+Forma Opulenta
 Masterpiece Form
-Masterpiece Form
+Forma Exquisita
 Wellspring Mask
-Wellspring Mask
+Máscara Fuente
 Hearthflame Mask
-Hearthflame Mask
+Máscara Horno
 Cornerstone Mask
-Cornerstone Mask
+Máscara Cimiento
 Terastal Form
-Terastal Form
+Forma Teracristal
 Stellar Form
-Stellar Form
+Forma Astral

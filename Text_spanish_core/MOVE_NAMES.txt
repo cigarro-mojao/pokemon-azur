@@ -3,1662 +3,1662 @@
 #-------------------------------
 [MOVE_NAMES]
 Megahorn
-Megahorn
+Megacuerno
 Attack Order
-Attack Order
+Al Ataque
 Bug Buzz
-Bug Buzz
+Zumbido
 First Impression
-First Impression
+Escaramuza
 Pollen Puff
-Pollen Puff
+Bola de Polen
 Leech Life
-Leech Life
+Chupavidas
 Lunge
-Lunge
+Plancha
 X-Scissor
-X-Scissor
+Tijera X
 Signal Beam
-Signal Beam
+Rayo Señal
 Skitter Smack
-Skitter Smack
+Golpe Rastrero
 U-turn
-U-turn
+Ida y Vuelta
 Steamroller
-Steamroller
+Rodillo de Púas
 Bug Bite
-Bug Bite
+Picadura
 Silver Wind
-Silver Wind
+Viento Plata
 Fell Stinger
-Fell Stinger
+Aguijón Letal
 Pounce
-Pounce
+Brinco
 Struggle Bug
-Struggle Bug
+Estoicismo
 Fury Cutter
-Fury Cutter
+Corte Furia
 Pin Missile
-Pin Missile
+Pin Misil
 Twineedle
-Twineedle
+Doble Ataque
 Infestation
-Infestation
+Acoso
 Defend Order
-Defend Order
+A Defender
 Heal Order
-Heal Order
+Auxilio
 Powder
-Powder
+Polvo Explosivo
 Quiver Dance
-Quiver Dance
+Danza Aleteo
 Rage Powder
-Rage Powder
+Polvo Ira
 Silk Trap
-Silk Trap
+Telatrampa
 Spider Web
-Spider Web
+Telaraña
 Sticky Web
-Sticky Web
+Red Viscosa
 String Shot
-String Shot
+Disparo Demora
 Tail Glow
-Tail Glow
+Luminicola
 Hyperspace Fury
-Hyperspace Fury
+Cerco Dimensión
 Foul Play
-Foul Play
+Juego Sucio
 Fiery Wrath
-Fiery Wrath
+Furia Candente
 Darkest Lariat
-Darkest Lariat
+Lariat Oscuro
 Kowtow Cleave
-Kowtow Cleave
+Genufendiente
 Night Daze
-Night Daze
+Pulso Noche
 Crunch
-Crunch
+Triturar
 Dark Pulse
-Dark Pulse
+Pulso Umbrío
 False Surrender
-False Surrender
+Irreverencia
 Jaw Lock
-Jaw Lock
+Presa Maxilar
 Throat Chop
-Throat Chop
+Golpe Mordaza
 Lash Out
-Lash Out
+Desahogo
 Wicked Blow
-Wicked Blow
+Golpe Oscuro
 Night Slash
-Night Slash
+Tajo Umbrío
 Sucker Punch
-Sucker Punch
+Golpe Bajo
 Ceaseless Edge
-Ceaseless Edge
+Tajo Metralla
 Knock Off
-Knock Off
+Desarme
 Assurance
-Assurance
+Buena Baza
 Bite
-Bite
+Mordisco
 Brutal Swing
-Brutal Swing
+Giro Vil
 Feint Attack
-Feint Attack
+Finta
 Punishment
-Punishment
+Castigo
 Thief
-Thief
+Ladrón
 Snarl
-Snarl
+Alarido
 Payback
-Payback
+Vendetta
 Pursuit
-Pursuit
+Persecución
 Power Trip
-Power Trip
+Chulería
 Beat Up
-Beat Up
+Paliza
 Comeuppance
-Comeuppance
+Resarcimiento
 Fling
-Fling
+Lanzamiento
 Ruination
-Ruination
+Calamidad
 Dark Void
-Dark Void
+Brecha Negra
 Embargo
 Embargo
 Fake Tears
-Fake Tears
+Llanto Falso
 Flatter
-Flatter
+Camelo
 Hone Claws
-Hone Claws
+Afilagarras
 Memento
-Memento
+Legado
 Nasty Plot
-Nasty Plot
+Maquinación
 Obstruct
-Obstruct
+Obstrucción
 Parting Shot
-Parting Shot
+Última Palabra
 Quash
-Quash
+Último Lugar
 Snatch
-Snatch
+Robo
 Switcheroo
-Switcheroo
+Trapicheo
 Taunt
-Taunt
+Mofa
 Topsy-Turvy
-Topsy-Turvy
+Reversión
 Torment
-Torment
+Tormento
 Nihil Light
-Nihil Light
+Luz Devastadora
 Eternabeam
-Eternabeam
+Rayo Infinito
 Dragon Energy
-Dragon Energy
+Dracoenergía
 Roar of Time
-Roar of Time
+Distorsión
 Draco Meteor
-Draco Meteor
+Cometa Draco
 Glaive Rush
-Glaive Rush
+Asalto Espadón
 Outrage
-Outrage
+Enfado
 Clanging Scales
-Clanging Scales
+Fragor Escamas
 Core Enforcer
-Core Enforcer
+Núcleo Castigo
 Dragon Rush
-Dragon Rush
+Carga Dragón
 Dynamax Cannon
-Dynamax Cannon
+Cañón Dinamax
 Spacial Rend
-Spacial Rend
+Corte Vacío
 Dragon Hammer
-Dragon Hammer
+Martillo Dragón
 Dragon Pulse
-Dragon Pulse
+Pulso Dragón
 Dragon Claw
-Dragon Claw
+Garra Dragón
 Order Up
-Order Up
+Oído Cocina
 Fickle Beam
-Fickle Beam
+Láser Veleidoso
 Breaking Swipe
-Breaking Swipe
+Vasto Impacto
 Dragon Breath
-Dragon Breath
+Dragoaliento
 Dragon Tail
-Dragon Tail
+Cola Dragón
 Dragon Darts
-Dragon Darts
+Dracoflechas
 Dual Chop
-Dual Chop
+Golpe Bis
 Twister
-Twister
+Ciclón
 Scale Shot
-Scale Shot
+Ráfaga Escamas
 Dragon Rage
-Dragon Rage
+Furia Dragón
 Clangorous Soul
-Clangorous Soul
+Estruendo Escama
 Dragon Cheer
-Dragon Cheer
+Bramido Dragón
 Dragon Dance
-Dragon Dance
+Danza Dragón
 Bolt Strike
-Bolt Strike
+Ataque Fulgor
 Electro Shot
-Electro Shot
+Electrorrayo
 Double Shock
-Double Shock
+Electropalmas
 Volt Tackle
-Volt Tackle
+Placaje Eléctrico
 Zap Cannon
-Zap Cannon
+Electrocañón
 Aura Wheel
-Aura Wheel
+Rueda Aural
 Thunder
-Thunder
+Trueno
 Electro Drift
-Electro Drift
+Electroderrape
 Fusion Bolt
-Fusion Bolt
+Rayo Fusión
 Plasma Fists
-Plasma Fists
+Puños Plasma
 Supercell Slam
-Supercell Slam
+Plancha Voltaica
 Wildbolt Storm
-Wildbolt Storm
+Electormenta
 Thunderbolt
-Thunderbolt
+Rayo
 Wild Charge
-Wild Charge
+Voltio Cruel
 Bolt Beak
-Bolt Beak
+Electropico
 Discharge
-Discharge
+Chispazo
 Overdrive
-Overdrive
+Amplificador
 Thunder Cage
-Thunder Cage
+Electrojaula
 Zing Zap
-Zing Zap
+Electropunzada
 Thunder Punch
-Thunder Punch
+Puño Trueno
 Rising Voltage
-Rising Voltage
+Alto Voltaje
 Thunderclap
-Thunderclap
+Relámpago Súbito
 Volt Switch
-Volt Switch
+Voltiocambio
 Parabolic Charge
-Parabolic Charge
+Carga Parábola
 Spark
-Spark
+Chispa
 Thunder Fang
-Thunder Fang
+Colmillo Rayo
 Shock Wave
-Shock Wave
+Onda Voltio
 Electroweb
-Electroweb
+Electrotela
 Charge Beam
-Charge Beam
+Rayo Carga
 Thunder Shock
-Thunder Shock
+Impactrueno
 Nuzzle
-Nuzzle
+Moflete Estático
 Electro Ball
-Electro Ball
+Bola Voltio
 Charge
-Charge
+Carga
 Eerie Impulse
-Eerie Impulse
+Onda Anómala
 Electric Terrain
-Electric Terrain
+Campo Eléctrico
 Electrify
-Electrify
+Electrificación
 Ion Deluge
-Ion Deluge
+Cortina Plasma
 Magnet Rise
-Magnet Rise
+Levitón
 Magnetic Flux
-Magnetic Flux
+Aura Magnética
 Thunder Wave
-Thunder Wave
+Onda Trueno
 Light of Ruin
-Light of Ruin
+Luz Aniquiladora
 Fleur Cannon
-Fleur Cannon
+Cañón Floral
 Misty Explosion
-Misty Explosion
+Bruma Explosiva
 Springtide Storm
-Springtide Storm
+Ciclón Primavera
 Moonblast
-Moonblast
+Fuerza Lunar
 Play Rough
-Play Rough
+Carantoña
 Strange Steam
-Strange Steam
+Cautivapor
 Alluring Voice
-Alluring Voice
+Canto Encantador
 Dazzling Gleam
-Dazzling Gleam
+Brillo Mágico
 Spirit Break
-Spirit Break
+Choque Anímico
 Draining Kiss
-Draining Kiss
+Beso Drenaje
 Disarming Voice
-Disarming Voice
+Voz Cautivadora
 Fairy Wind
-Fairy Wind
+Viento Feérico
 Nature's Madness
-Nature's Madness
+Furia Natural
 Aromatic Mist
-Aromatic Mist
+Niebla Aromática
 Baby-Doll Eyes
-Baby-Doll Eyes
+Ojitos Tiernos
 Charm
-Charm
+Encanto
 Crafty Shield
-Crafty Shield
+Truco Defensa
 Decorate
-Decorate
+Decoración
 Fairy Lock
-Fairy Lock
+Cerrojo Feérico
 Floral Healing
-Floral Healing
+Cura Floral
 Flower Shield
-Flower Shield
+Defensa Floral
 Geomancy
-Geomancy
+Geocontrol
 Misty Terrain
-Misty Terrain
+Campo de Niebla
 Moonlight
-Moonlight
+Luz Lunar
 Sweet Kiss
-Sweet Kiss
+Beso Dulce
 Focus Punch
-Focus Punch
+Puño Certero
 Meteor Assault
-Meteor Assault
+Asalto Estelar
 High Jump Kick
-High Jump Kick
+Patada Salto Alta
 Axe Kick
-Axe Kick
+Patada Hacha
 Close Combat
-Close Combat
+A Bocajarro
 Focus Blast
-Focus Blast
+Onda Certera
 Superpower
-Superpower
+Fuerza Bruta
 Collision Course
-Collision Course
+Nitrochoque
 Cross Chop
-Cross Chop
+Tajo Cruzado
 Dynamic Punch
-Dynamic Punch
+Puño Dinámico
 Flying Press
-Flying Press
+Plancha Voladora
 Hammer Arm
-Hammer Arm
+Machada
 Jump Kick
-Jump Kick
+Patada Salto
 Sacred Sword
-Sacred Sword
+Espada Santa
 Thunderous Kick
-Thunderous Kick
+Patada Relámpago
 Triple Arrows
-Triple Arrows
+Triple Flecha
 Secret Sword
-Secret Sword
+Sable Místico
 Sky Uppercut
-Sky Uppercut
+Gancho Alto
 Aura Sphere
-Aura Sphere
+Esfera Aural
 Body Press
-Body Press
+Plancha Corporal
 Submission
-Submission
+Sumisión
 Brick Break
-Brick Break
+Demolición
 Drain Punch
-Drain Punch
+Puño Drenaje
 Vital Throw
-Vital Throw
+Llave Vital
 Wake-Up Slap
-Wake-Up Slap
+Espabila
 Low Sweep
-Low Sweep
+Puntapié
 Upper Hand
-Upper Hand
+Palma Rauda
 Circle Throw
-Circle Throw
+Llave Giro
 Force Palm
-Force Palm
+Palmeo
 Revenge
-Revenge
+Desquite
 Rolling Kick
-Rolling Kick
+Patada Giro
 Storm Throw
-Storm Throw
+Llave Corsé
 Karate Chop
-Karate Chop
+Golpe Kárate
 Mach Punch
-Mach Punch
+Ultrapuño
 Power-Up Punch
-Power-Up Punch
+Puño Incremento
 Rock Smash
-Rock Smash
+Golpe Roca
 Vacuum Wave
-Vacuum Wave
+Onda Vacío
 Double Kick
-Double Kick
+Doble Patada
 Arm Thrust
-Arm Thrust
+Empujón
 Triple Kick
-Triple Kick
+Triple Patada
 Counter
-Counter
+Contraataque
 Final Gambit
-Final Gambit
+Sacrificio
 Low Kick
-Low Kick
+Patada Baja
 Reversal
-Reversal
+Inversión
 Seismic Toss
-Seismic Toss
+Sísmico
 Bulk Up
-Bulk Up
+Corpulencia
 Coaching
-Coaching
+Motivación
 Detect
-Detect
+Detección
 Mat Block
-Mat Block
+Escudo Tatami
 No Retreat
-No Retreat
+Bastión Final
 Octolock
-Octolock
+Octopresa
 Quick Guard
-Quick Guard
+Anticipo
 Victory Dance
-Victory Dance
+Danza Triunfal
 V-create
-V-create
+V de Fuego
 Blast Burn
-Blast Burn
+Anillo Ígneo
 Eruption
-Eruption
+Estallido
 Mind Blown
-Mind Blown
+Cabeza Sorpresa
 Shell Trap
-Shell Trap
+Coraza Trampa
 Blue Flare
-Blue Flare
+Llama Azul
 Burn Up
-Burn Up
+Llama Final
 Overheat
-Overheat
+Sofoco
 Armor Cannon
-Armor Cannon
+Cañón Armadura
 Flare Blitz
-Flare Blitz
+Envite Ígneo
 Pyro Ball
-Pyro Ball
+Balón Ígneo
 Raging Fury
-Raging Fury
+Erupción de Ira
 Fire Blast
-Fire Blast
+Llamarada
 Fusion Flare
-Fusion Flare
+Llama Fusión
 Inferno
-Inferno
+Infierno
 Magma Storm
-Magma Storm
+Lluvia Ígnea
 Sacred Fire
-Sacred Fire
+Fuego Sagrado
 Searing Shot
-Searing Shot
+Bomba Ígnea
 Heat Wave
-Heat Wave
+Onda Ígnea
 Bitter Blade
-Bitter Blade
+Espada Lamento
 Flamethrower
-Flamethrower
+Lanzallamas
 Blaze Kick
-Blaze Kick
+Patada Ígnea
 Fiery Dance
-Fiery Dance
+Danza Llama
 Fire Lash
-Fire Lash
+Látigo Ígneo
 Fire Pledge
-Fire Pledge
+Voto Fuego
 Lava Plume
-Lava Plume
+Humareda
 Torch Song
-Torch Song
+Canto Ardiente
 Fire Punch
-Fire Punch
+Puño Fuego
 Mystical Fire
-Mystical Fire
+Llama Embrujada
 Temper Flare
-Temper Flare
+Cólera Ardiente
 Burning Jealousy
-Burning Jealousy
+Envidia Ardiente
 Flame Burst
-Flame Burst
+Pirotecnia
 Fire Fang
-Fire Fang
+Colmillo Ígneo
 Flame Wheel
-Flame Wheel
+Rueda Fuego
 Incinerate
-Incinerate
+Calcinación
 Flame Charge
-Flame Charge
+Nitrocarga
 Ember
-Ember
+Ascuas
 Fire Spin
-Fire Spin
+Giro Fuego
 Heat Crash
-Heat Crash
+Golpe Calor
 Burning Bulwark
-Burning Bulwark
+Llama Protectora
 Sunny Day
-Sunny Day
+Día Soleado
 Will-O-Wisp
-Will-O-Wisp
+Fuego Fatuo
 Sky Attack
-Sky Attack
+Ataque Aéreo
 Brave Bird
-Brave Bird
+Pájaro Osado
 Dragon Ascent
-Dragon Ascent
+Ascenso Draco
 Hurricane
-Hurricane
+Vendaval
 Aeroblast
-Aeroblast
+Aerochorro
 Beak Blast
-Beak Blast
+Pico Cañón
 Bleakwind Storm
-Bleakwind Storm
+Vendaval Gélido
 Fly
-Fly
+Vuelo
 Bounce
-Bounce
+Bote
 Drill Peck
-Drill Peck
+Pico Taladro
 Oblivion Wing
-Oblivion Wing
+Ala Mortífera
 Air Slash
-Air Slash
+Tajo Aéreo
 Chatter
-Chatter
+Cháchara
 Aerial Ace
-Aerial Ace
+Golpe Aéreo
 Air Cutter
-Air Cutter
+Aire Afilado
 Pluck
-Pluck
+Picoteo
 Sky Drop
-Sky Drop
+Caída Libre
 Wing Attack
-Wing Attack
+Ataque Ala
 Acrobatics
-Acrobatics
+Acróbata
 Dual Wingbeat
-Dual Wingbeat
+Ala Bis
 Gust
-Gust
+Tornado
 Peck
-Peck
+Picotazo
 Defog
-Defog
+Despejar
 Feather Dance
-Feather Dance
+Danza Pluma
 Mirror Move
-Mirror Move
+Espejo
 Roost
-Roost
+Respiro
 Tailwind
-Tailwind
+Viento Afín
 Astral Barrage
-Astral Barrage
+Orbes Espectro
 Shadow Force
-Shadow Force
+Golpe Umbrío
 Poltergeist
 Poltergeist
 Moongeist Beam
-Moongeist Beam
+Rayo Umbrío
 Phantom Force
-Phantom Force
+Golpe Fantasma
 Spectral Thief
-Spectral Thief
+Robasombra
 Shadow Bone
-Shadow Bone
+Hueso Sombrío
 Shadow Ball
-Shadow Ball
+Bola Sombra
 Spirit Shackle
-Spirit Shackle
+Puntada Sombría
 Bitter Malice
-Bitter Malice
+Rencor Reprimido
 Shadow Claw
-Shadow Claw
+Garra Umbría
 Hex
-Hex
+Infortunio
 Infernal Parade
-Infernal Parade
+Marcha Espectral
 Ominous Wind
-Ominous Wind
+Viento Aciago
 Shadow Punch
-Shadow Punch
+Puño Sombra
 Last Respects
-Last Respects
+Homenaje Póstumo
 Rage Fist
-Rage Fist
+Puño Furia
 Shadow Sneak
-Shadow Sneak
+Sombra Vil
 Astonish
-Astonish
+Impresionar
 Lick
-Lick
+Lengüetazo
 Night Shade
-Night Shade
+Tinieblas
 Confuse Ray
-Confuse Ray
+Rayo Confuso
 Curse
-Curse
+Maldición
 Destiny Bond
-Destiny Bond
+Mismo Destino
 Grudge
-Grudge
+Rabia
 Nightmare
-Nightmare
+Pesadilla
 Spite
-Spite
+Rencor
 Trick-or-Treat
-Trick-or-Treat
+Halloween
 Chloroblast
-Chloroblast
+Clorofiláser
 Frenzy Plant
-Frenzy Plant
+Planta Feroz
 Leaf Storm
-Leaf Storm
+Lluevehojas
 Solar Blade
-Solar Blade
+Cuchilla Solar
 Petal Dance
-Petal Dance
+Danza Pétalo
 Power Whip
-Power Whip
+Latigazo
 Seed Flare
-Seed Flare
+Fulgor Semilla
 Solar Beam
-Solar Beam
+Rayo Solar
 Wood Hammer
-Wood Hammer
+Mazazo
 Ivy Cudgel
-Ivy Cudgel
+Garrote Liana
 Energy Ball
-Energy Ball
+Energibola
 Leaf Blade
-Leaf Blade
+Hoja Aguda
 Petal Blizzard
-Petal Blizzard
+Tormenta Floral
 Apple Acid
-Apple Acid
+Ácido Málico
 Drum Beating
-Drum Beating
+Batería Asalto
 Grass Pledge
-Grass Pledge
+Voto Planta
 Grav Apple
-Grav Apple
+Fuerza G
 Matcha Gotcha
-Matcha Gotcha
+Cañón Batidor
 Seed Bomb
-Seed Bomb
+Bomba Germen
 Giga Drain
-Giga Drain
+Gigadrenado
 Horn Leech
-Horn Leech
+Asta Drenaje
 Flower Trick
-Flower Trick
+Truco Floral
 Trop Kick
-Trop Kick
+Patada Tropical
 Leaf Tornado
-Leaf Tornado
+Ciclón de Hojas
 Magical Leaf
-Magical Leaf
+Hoja Mágica
 Needle Arm
-Needle Arm
+Brazo Pincho
 Syrup Bomb
-Syrup Bomb
+Bomba Caramelo
 Grassy Glide
-Grassy Glide
+Fitoimpulso
 Razor Leaf
-Razor Leaf
+Hoja Afilada
 Trailblaze
-Trailblaze
+Abrecaminos
 Vine Whip
-Vine Whip
+Látigo Cepa
 Branch Poke
-Branch Poke
+Punzada Rama
 Leafage
-Leafage
+Follaje
 Mega Drain
-Mega Drain
+Megaagotar
 Snap Trap
-Snap Trap
+Cepo
 Bullet Seed
-Bullet Seed
+Semilladora
 Absorb
-Absorb
+Absorber
 Grass Knot
-Grass Knot
+Hierba Lazo
 Aromatherapy
-Aromatherapy
+Aromaterapia
 Cotton Guard
-Cotton Guard
+Rizo Algodón
 Cotton Spore
-Cotton Spore
+Esporagodón
 Forest's Curse
-Forest's Curse
+Condena Silvana
 Grass Whistle
-Grass Whistle
+Silbato
 Grassy Terrain
-Grassy Terrain
+Campo de Hierba
 Ingrain
-Ingrain
+Arraigo
 Jungle Healing
-Jungle Healing
+Cura Selvática
 Leech Seed
-Leech Seed
+Drenadoras
 Sleep Powder
-Sleep Powder
+Somnífero
 Spicy Extract
-Spicy Extract
+Extracto Picante
 Spiky Shield
-Spiky Shield
+Barrera Espinosa
 Spore
-Spore
+Espora
 Strength Sap
-Strength Sap
+Absorbefuerza
 Stun Spore
-Stun Spore
+Paralizador
 Synthesis
-Synthesis
+Fotosíntesis
 Worry Seed
-Worry Seed
+Abatidoras
 Headlong Rush
-Headlong Rush
+Arremetida
 Precipice Blades
-Precipice Blades
+Filo del Abismo
 Earthquake
-Earthquake
+Terremoto
 Sandsear Storm
-Sandsear Storm
+Simún de Arena
 High Horsepower
-High Horsepower
+Fuerza Equina
 Earth Power
-Earth Power
+Tierra Viva
 Land's Wrath
-Land's Wrath
+Fuerza Telúrica
 Thousand Arrows
-Thousand Arrows
+Mil Flechas
 Thousand Waves
-Thousand Waves
+Mil Temblores
 Dig
-Dig
+Excavar
 Drill Run
-Drill Run
+Taladradora
 Stomping Tantrum
-Stomping Tantrum
+Pataleta
 Scorching Sands
-Scorching Sands
+Arenas Ardientes
 Bone Club
-Bone Club
+Hueso Palo
 Mud Bomb
-Mud Bomb
+Bomba Fango
 Bulldoze
-Bulldoze
+Terratemblor
 Mud Shot
-Mud Shot
+Disparo Lodo
 Bonemerang
-Bonemerang
+Huesomerang
 Sand Tomb
-Sand Tomb
+Bucle Arena
 Bone Rush
-Bone Rush
+Ataque Óseo
 Mud-Slap
-Mud-Slap
+Bofetón Lodo
 Fissure
-Fissure
+Fisura
 Magnitude
-Magnitude
+Magnitud
 Mud Sport
-Mud Sport
+Chapoteo Lodo
 Rototiller
-Rototiller
+Fertilizante
 Sand Attack
-Sand Attack
+Ataque Arena
 Shore Up
-Shore Up
+Recogearena
 Spikes
-Spikes
+Púas
 Freeze Shock
-Freeze Shock
+Rayo Gélido
 Ice Burn
-Ice Burn
+Llama Gélida
 Glacial Lance
-Glacial Lance
+Lanza Glacial
 Blizzard
-Blizzard
+Ventisca
 Ice Hammer
-Ice Hammer
+Martillo Hielo
 Mountain Gale
-Mountain Gale
+Viento Carámbano
 Ice Beam
-Ice Beam
+Rayo Hielo
 Icicle Crash
-Icicle Crash
+Chuzos
 Ice Spinner
-Ice Spinner
+Pirueta Helada
 Ice Punch
-Ice Punch
+Puño Hielo
 Freeze-Dry
-Freeze-Dry
+Liofilización
 Aurora Beam
-Aurora Beam
+Rayo Aurora
 Glaciate
-Glaciate
+Mundo Gélido
 Ice Fang
-Ice Fang
+Colmillo Hielo
 Avalanche
-Avalanche
+Alud
 Frost Breath
-Frost Breath
+Vaho Gélido
 Icy Wind
-Icy Wind
+Viento Hielo
 Ice Shard
-Ice Shard
+Esquirla Helada
 Powder Snow
-Powder Snow
+Nieve Polvo
 Ice Ball
-Ice Ball
+Bola Hielo
 Icicle Spear
-Icicle Spear
+Carámbano
 Triple Axel
 Triple Axel
 Sheer Cold
-Sheer Cold
+Frío Polar
 Aurora Veil
-Aurora Veil
+Velo Aurora
 Chilly Reception
-Chilly Reception
+Fría Acogida
 Hail
-Hail
+Granizo
 Haze
-Haze
+Niebla
 Mist
-Mist
+Neblina
 Snowscape
-Snowscape
+Paisaje Nevado
 Explosion
-Explosion
+Explosión
 Self-Destruct
-Self-Destruct
+Autodestrucción
 Giga Impact
-Giga Impact
+Gigaimpacto
 Hyper Beam
-Hyper Beam
+Hiperrayo
 Blood Moon
-Blood Moon
+Luna Roja
 Boomburst
-Boomburst
+Estruendo
 Last Resort
-Last Resort
+Última Baza
 Skull Bash
-Skull Bash
+Cabezazo
 Double-Edge
-Double-Edge
+Doble Filo
 Head Charge
-Head Charge
+Ariete
 Mega Kick
-Mega Kick
+Megapatada
 Multi-Attack
-Multi-Attack
+Multiataque
 Techno Blast
-Techno Blast
+Tecno Shock
 Tera Starstorm
-Tera Starstorm
+Teraclúster
 Thrash
-Thrash
+Saña
 Egg Bomb
-Egg Bomb
+Bomba Huevo
 Hyper Drill
-Hyper Drill
+Hipertaladro
 Judgment
-Judgment
+Sentencia
 Hyper Voice
-Hyper Voice
+Vozarrón
 Raging Bull
-Raging Bull
+Furia Taurina
 Revelation Dance
-Revelation Dance
+Danza Despertar
 Rock Climb
-Rock Climb
+Treparrocas
 Take Down
-Take Down
+Derribo
 Uproar
-Uproar
+Alboroto
 Body Slam
-Body Slam
+Golpe Cuerpo
 Extreme Speed
-Extreme Speed
+Velocidad Extrema
 Hyper Fang
-Hyper Fang
+Hipercolmillo
 Mega Punch
-Mega Punch
+Megapuño
 Razor Wind
-Razor Wind
+Viento Cortante
 Slam
-Slam
+Atizar
 Strength
-Strength
+Fuerza
 Tera Blast
-Tera Blast
+Teraexplosión
 Tri Attack
-Tri Attack
+Triataque
 Crush Claw
-Crush Claw
+Garra Brutal
 Relic Song
-Relic Song
+Canto Arcaico
 Chip Away
-Chip Away
+Guardia Baja
 Dizzy Punch
-Dizzy Punch
+Puño Mareo
 Facade
-Facade
+Fachada
 Headbutt
-Headbutt
+Golpe Cabeza
 Retaliate
-Retaliate
+Represalia
 Secret Power
-Secret Power
+Daño Secreto
 Slash
-Slash
+Cuchillada
 Smelling Salts
-Smelling Salts
+Estímulo
 Horn Attack
-Horn Attack
+Cornada
 Stomp
-Stomp
+Pisotón
 Covet
-Covet
+Antojo
 Hidden Power
-Hidden Power
+Poder Oculto
 Round
-Round
+Canon
 Swift
-Swift
+Meteoros
 Vise Grip
-Vise Grip
+Agarre
 Cut
-Cut
+Corte
 Rapid Spin
-Rapid Spin
+Giro Rápido
 Snore
-Snore
+Ronquido
 Terrain Pulse
-Terrain Pulse
+Pulso de Campo
 Weather Ball
-Weather Ball
+Meteorobola
 Echoed Voice
-Echoed Voice
+Eco Voz
 Fake Out
-Fake Out
+Sorpresa
 False Swipe
-False Swipe
+Falso Tortazo
 Hold Back
-Hold Back
+Clemencia
 Pay Day
-Pay Day
+Día de Pago
 Pound
-Pound
+Destructor
 Quick Attack
-Quick Attack
+Ataque Rápido
 Scratch
-Scratch
+Arañazo
 Tackle
-Tackle
+Placaje
 Double Hit
-Double Hit
+Doble Golpe
 Feint
-Feint
+Amago
 Tail Slap
-Tail Slap
+Plumerazo
 Population Bomb
-Population Bomb
+Proliferación
 Rage
-Rage
+Furia
 Spike Cannon
-Spike Cannon
+Clavo Cañón
 Comet Punch
-Comet Punch
+Puño Cometa
 Fury Swipes
-Fury Swipes
+Golpes Furia
 Barrage
-Barrage
+Bombardeo
 Bind
-Bind
+Atadura
 Double Slap
-Double Slap
+Doble Bofetón
 Fury Attack
-Fury Attack
+Ataque Furia
 Wrap
-Wrap
+Constricción
 Constrict
-Constrict
+Restricción
 Bide
-Bide
+Venganza
 Crush Grip
-Crush Grip
+Agarrón
 Endeavor
-Endeavor
+Esfuerzo
 Flail
-Flail
+Azote
 Frustration
-Frustration
+Frustración
 Guillotine
-Guillotine
+Guillotina
 Horn Drill
-Horn Drill
+Perforador
 Natural Gift
-Natural Gift
+Don Natural
 Present
-Present
+Presente
 Return
-Return
+Retribución
 Sonic Boom
-Sonic Boom
+Bomba Sónica
 Spit Up
-Spit Up
+Escupir
 Super Fang
-Super Fang
+Superdiente
 Trump Card
-Trump Card
+As Oculto
 Wring Out
-Wring Out
+Estrujón
 Acupressure
-Acupressure
+Acupresión
 After You
-After You
+Cede Paso
 Assist
-Assist
+Ayuda
 Attract
-Attract
+Atracción
 Baton Pass
-Baton Pass
+Relevo
 Belly Drum
-Belly Drum
+Tambor
 Bestow
-Bestow
+Ofrenda
 Block
-Block
+Bloqueo
 Camouflage
-Camouflage
+Camuflaje
 Captivate
-Captivate
+Seducción
 Celebrate
-Celebrate
+Celebración
 Confide
-Confide
+Confidencia
 Conversion
-Conversion
+Conversión
 Conversion 2
-Conversion 2
+Conversión 2
 Copycat
-Copycat
+Copión
 Court Change
-Court Change
+Cambio de Cancha
 Defense Curl
-Defense Curl
+Rizo Defensa
 Disable
-Disable
+Anulación
 Doodle
-Doodle
+Decalcomanía
 Double Team
-Double Team
+Doble Equipo
 Encore
-Encore
+Otra Vez
 Endure
-Endure
+Aguante
 Entrainment
-Entrainment
+Danza Amiga
 Fillet Away
-Fillet Away
+Deslome
 Flash
-Flash
+Destello
 Focus Energy
-Focus Energy
+Foco Energía
 Follow Me
-Follow Me
+Señuelo
 Foresight
-Foresight
+Profecía
 Glare
-Glare
+Deslumbrar
 Growl
-Growl
+Gruñido
 Growth
-Growth
+Desarrollo
 Happy Hour
-Happy Hour
+Paga Extra
 Harden
-Harden
+Fortaleza
 Heal Bell
-Heal Bell
+Cascabel Cura
 Helping Hand
-Helping Hand
+Refuerzo
 Hold Hands
-Hold Hands
+Manos Juntas
 Howl
-Howl
+Aullido
 Laser Focus
-Laser Focus
+Aguzar
 Leer
-Leer
+Malicioso
 Lock-On
-Lock-On
+Fijar Blanco
 Lovely Kiss
-Lovely Kiss
+Beso Amoroso
 Lucky Chant
-Lucky Chant
+Conjuro
 Me First
-Me First
+Yo Primero
 Mean Look
-Mean Look
+Mal de Ojo
 Metronome
-Metronome
+Metrónomo
 Milk Drink
-Milk Drink
+Batido
 Mimic
-Mimic
+Mimético
 Mind Reader
-Mind Reader
+Telépata
 Minimize
-Minimize
+Reducción
 Morning Sun
-Morning Sun
+Sol Matinal
 Nature Power
-Nature Power
+Adaptación
 Noble Roar
-Noble Roar
+Rugido de Guerra
 Odor Sleuth
-Odor Sleuth
+Rastreo
 Pain Split
-Pain Split
+Divide Dolor
 Perish Song
-Perish Song
+Canto Mortal
 Play Nice
-Play Nice
+Camaradería
 Power Shift
-Power Shift
+Cambiapoder
 Protect
-Protect
+Protección
 Psych Up
-Psych Up
+Autosugestión
 Recover
-Recover
+Recuperación
 Recycle
-Recycle
+Reciclaje
 Reflect Type
-Reflect Type
+Clonatipo
 Refresh
-Refresh
+Alivio
 Revival Blessing
-Revival Blessing
+Plegaria Vital
 Roar
-Roar
+Rugido
 Safeguard
-Safeguard
+Velo Sagrado
 Scary Face
-Scary Face
+Cara Susto
 Screech
-Screech
+Chirrido
 Sharpen
-Sharpen
+Afilar
 Shed Tail
-Shed Tail
+Autotomía
 Shell Smash
-Shell Smash
+Rompecoraza
 Simple Beam
-Simple Beam
+Onda Simple
 Sing
-Sing
+Canto
 Sketch
-Sketch
+Esquema
 Slack Off
-Slack Off
+Relajo
 Sleep Talk
-Sleep Talk
+Sonámbulo
 Smokescreen
-Smokescreen
+Pantalla de Humo
 Soft-Boiled
-Soft-Boiled
+Ovocuración
 Splash
-Splash
+Salpicadura
 Spotlight
-Spotlight
+Foco
 Stockpile
-Stockpile
+Reserva
 Stuff Cheeks
-Stuff Cheeks
+Atiborramiento
 Substitute
-Substitute
+Sustituto
 Supersonic
-Supersonic
+Supersónico
 Swagger
-Swagger
+Fanfarronear
 Swallow
-Swallow
+Tragar
 Sweet Scent
-Sweet Scent
+Dulce Aroma
 Swords Dance
-Swords Dance
+Danza Espada
 Tail Whip
-Tail Whip
+Agitacola
 Tearful Look
-Tearful Look
+Ojos Llorosos
 Teatime
-Teatime
+Hora del Té
 Teeter Dance
-Teeter Dance
+Danza Caos
 Tickle
-Tickle
+Cosquillas
 Tidy Up
-Tidy Up
+Limpieza General
 Transform
-Transform
+Transformación
 Whirlwind
-Whirlwind
+Remolino
 Wish
-Wish
+Deseo
 Work Up
-Work Up
+Avivar
 Yawn
-Yawn
+Bostezo
 Belch
-Belch
+Eructo
 Gunk Shot
-Gunk Shot
+Lanzamugre
 Malignant Chain
-Malignant Chain
+Cadena Virulenta
 Sludge Wave
-Sludge Wave
+Onda Tóxica
 Shell Side Arm
-Shell Side Arm
+Moluscañón
 Sludge Bomb
-Sludge Bomb
+Bomba Lodo
 Dire Claw
-Dire Claw
+Garra Nociva
 Poison Jab
-Poison Jab
+Puya Nociva
 Cross Poison
-Cross Poison
+Veneno X
 Sludge
-Sludge
+Residuos
 Venoshock
-Venoshock
+Carga Tóxica
 Barb Barrage
-Barb Barrage
+Mil Púas Tóxicas
 Clear Smog
-Clear Smog
+Niebla Clara
 Poison Fang
-Poison Fang
+Colmillo Veneno
 Poison Tail
-Poison Tail
+Cola Veneno
 Acid
-Acid
+Ácido
 Acid Spray
-Acid Spray
+Bomba Ácida
 Mortal Spin
-Mortal Spin
+Giro Mortífero
 Smog
-Smog
+Polución
 Poison Sting
-Poison Sting
+Picotazo Veneno
 Acid Armor
-Acid Armor
+Armadura Ácida
 Baneful Bunker
-Baneful Bunker
+Búnker
 Coil
-Coil
+Enrosque
 Corrosive Gas
-Corrosive Gas
+Gas Corrosivo
 Gastro Acid
-Gastro Acid
+Bilis
 Poison Gas
-Poison Gas
+Gas Venenoso
 Poison Powder
-Poison Powder
+Polvo Veneno
 Purify
-Purify
+Purificación
 Toxic
-Toxic
+Tóxico
 Toxic Spikes
-Toxic Spikes
+Púas Tóxicas
 Toxic Thread
-Toxic Thread
+Hilo Venenoso
 Venom Drench
-Venom Drench
+Trampa Venenosa
 Prismatic Laser
-Prismatic Laser
+Láser Prisma
 Psycho Boost
-Psycho Boost
+Psicoataque
 Future Sight
-Future Sight
+Premonición
 Synchronoise
-Synchronoise
+Sincrorruido
 Dream Eater
-Dream Eater
+Comesueños
 Photon Geyser
-Photon Geyser
+Géiser Fotónico
 Psystrike
-Psystrike
+Onda Mental
 Luster Purge
-Luster Purge
+Resplandor
 Mist Ball
-Mist Ball
+Bola Neblina
 Freezing Glare
-Freezing Glare
+Mirada Heladora
 Psychic
-Psychic
+Psíquico
 Psychic Fangs
-Psychic Fangs
+Psicocolmillo
 Eerie Spell
-Eerie Spell
+Conjuro Funesto
 Esper Wing
-Esper Wing
+Ala Aural
 Expanding Force
-Expanding Force
+Vasta Fuerza
 Extrasensory
-Extrasensory
+Paranormal
 Hyperspace Hole
-Hyperspace Hole
+Paso Dimensional
 Lumina Crash
-Lumina Crash
+Fotocolisión
 Psyblade
-Psyblade
+Psicohojas
 Psyshock
-Psyshock
+Psicocarga
 Zen Headbutt
-Zen Headbutt
+Cabezazo Zen
 Psychic Noise
-Psychic Noise
+Psicorruido
 Mystical Power
-Mystical Power
+Poder Místico
 Psycho Cut
-Psycho Cut
+Psicocorte
 Psyshield Bash
-Psyshield Bash
+Asalto Barrera
 Psybeam
-Psybeam
+Psicorrayo
 Heart Stamp
-Heart Stamp
+Arrumaco
 Confusion
-Confusion
+Confusión
 Twin Beam
-Twin Beam
+Láser Doble
 Stored Power
-Stored Power
+Poder Reserva
 Mirror Coat
-Mirror Coat
+Manto Espejo
 Psywave
-Psywave
+Psicoonda
 Agility
-Agility
+Agilidad
 Ally Switch
-Ally Switch
+Cambio de Banda
 Amnesia
 Amnesia
 Barrier
-Barrier
+Barrera
 Calm Mind
-Calm Mind
+Paz Mental
 Cosmic Power
-Cosmic Power
+Masa Cósmica
 Gravity
-Gravity
+Gravedad
 Guard Split
-Guard Split
+Isoguardia
 Guard Swap
-Guard Swap
+Cambiadefensa
 Heal Block
-Heal Block
+Anticura
 Heal Pulse
-Heal Pulse
+Pulso Cura
 Healing Wish
-Healing Wish
+Deseo Cura
 Heart Swap
-Heart Swap
+Cambiaalmas
 Hypnosis
-Hypnosis
+Hipnosis
 Imprison
-Imprison
+Sellar
 Instruct
-Instruct
+Mandato
 Kinesis
-Kinesis
+Kinético
 Light Screen
-Light Screen
+Pantalla de Luz
 Lunar Blessing
-Lunar Blessing
+Plegaria Lunar
 Lunar Dance
-Lunar Dance
+Danza Lunar
 Magic Coat
-Magic Coat
+Capa Mágica
 Magic Powder
-Magic Powder
+Polvo Mágico
 Magic Room
-Magic Room
+Zona Mágica
 Meditate
-Meditate
+Meditación
 Miracle Eye
-Miracle Eye
+Gran Ojo
 Power Split
-Power Split
+Isofuerza
 Power Swap
-Power Swap
+Cambiafuerza
 Power Trick
-Power Trick
+Truco Fuerza
 Psychic Terrain
-Psychic Terrain
+Campo Psíquico
 Psycho Shift
-Psycho Shift
+Psicocambio
 Reflect
-Reflect
+Reflejo
 Rest
-Rest
+Descanso
 Role Play
-Role Play
+Imitación
 Skill Swap
-Skill Swap
+Intercambio
 Speed Swap
-Speed Swap
+Cambiavelocidad
 Take Heart
-Take Heart
+Bálsamo Osado
 Telekinesis
-Telekinesis
+Telequinesis
 Teleport
-Teleport
+Teletransporte
 Trick
-Trick
+Truco
 Trick Room
-Trick Room
+Espacio Raro
 Wonder Room
-Wonder Room
+Zona Extraña
 Head Smash
-Head Smash
+Testarazo
 Rock Wrecker
-Rock Wrecker
+Romperrocas
 Meteor Beam
-Meteor Beam
+Rayo Meteórico
 Diamond Storm
-Diamond Storm
+Tormenta de Diamantes
 Stone Edge
-Stone Edge
+Roca Afilada
 Mighty Cleave
-Mighty Cleave
+Filo Potente
 Power Gem
-Power Gem
+Joya de Luz
 Rock Slide
-Rock Slide
+Avalancha
 Stone Axe
-Stone Axe
+Hachazo Pétreo
 Ancient Power
-Ancient Power
+Poder Pasado
 Rock Tomb
-Rock Tomb
+Tumba Rocas
 Rock Throw
-Rock Throw
+Lanzarrocas
 Smack Down
-Smack Down
+Antiaéreo
 Accelerock
-Accelerock
+Roca Veloz
 Salt Cure
-Salt Cure
+Salazón
 Rollout
-Rollout
+Rodar
 Rock Blast
-Rock Blast
+Pedrada
 Rock Polish
-Rock Polish
+Pulimento
 Sandstorm
-Sandstorm
+Tormenta de Arena
 Stealth Rock
-Stealth Rock
+Trampa Rocas
 Tar Shot
-Tar Shot
+Alquitranazo
 Wide Guard
-Wide Guard
+Vasta Guardia
 Gigaton Hammer
-Gigaton Hammer
+Martillo Colosal
 Doom Desire
-Doom Desire
+Deseo Oculto
 Steel Beam
-Steel Beam
+Metaláser
 Steel Roller
-Steel Roller
+Allanador Férreo
 Make It Rain
-Make It Rain
+Fiebre Dorada
 Behemoth Bash
-Behemoth Bash
+Embate Supremo
 Behemoth Blade
-Behemoth Blade
+Tajo Supremo
 Iron Tail
-Iron Tail
+Cola Férrea
 Spin Out
-Spin Out
+Quemarrueda
 Sunsteel Strike
-Sunsteel Strike
+Meteoimpacto
 Meteor Mash
-Meteor Mash
+Puño Meteoro
 Anchor Shot
-Anchor Shot
+Anclaje
 Flash Cannon
-Flash Cannon
+Cañón Resplandor
 Iron Head
-Iron Head
+Cabeza de Hierro
 Smart Strike
-Smart Strike
+Cuerno Certero
 Steel Wing
-Steel Wing
+Ala de Acero
 Mirror Shot
-Mirror Shot
+Disparo Espejo
 Double Iron Bash
-Double Iron Bash
+Ferropuño Doble
 Magnet Bomb
-Magnet Bomb
+Bomba Imán
 Gear Grind
-Gear Grind
+Rueda Doble
 Metal Claw
-Metal Claw
+Garra Metal
 Tachyon Cutter
-Tachyon Cutter
+Tajo Taquión
 Bullet Punch
-Bullet Punch
+Puño Bala
 Gyro Ball
-Gyro Ball
+Giro Bola
 Hard Press
-Hard Press
+Prensa Metálica
 Heavy Slam
-Heavy Slam
+Cuerpo Pesado
 Metal Burst
-Metal Burst
+Represión Metal
 Autotomize
-Autotomize
+Aligerar
 Gear Up
-Gear Up
+Piñón Auxiliar
 Iron Defense
-Iron Defense
+Defensa Férrea
 King's Shield
-King's Shield
+Escudo Real
 Metal Sound
-Metal Sound
+Eco Metálico
 Shelter
-Shelter
+Retracción
 Shift Gear
-Shift Gear
+Cambio de Marcha
 Hydro Cannon
-Hydro Cannon
+Hidrocañón
 Water Spout
-Water Spout
+Salpicar
 Wave Crash
-Wave Crash
+Envite Acuático
 Hydro Pump
-Hydro Pump
+Hidrobomba
 Origin Pulse
-Origin Pulse
+Pulso Primigenio
 Steam Eruption
-Steam Eruption
+Chorro de Vapor
 Crabhammer
-Crabhammer
+Martillazo
 Aqua Tail
-Aqua Tail
+Acua Cola
 Muddy Water
-Muddy Water
+Agua Lodosa
 Sparkling Aria
-Sparkling Aria
+Aria Burbuja
 Surf
 Surf
 Fishious Rend
-Fishious Rend
+Branquibocado
 Liquidation
-Liquidation
+Hidroariete
 Aqua Step
-Aqua Step
+Danza Acuática
 Dive
-Dive
+Buceo
 Hydro Steam
-Hydro Steam
+Hidrovapor
 Scald
-Scald
+Escaldar
 Snipe Shot
-Snipe Shot
+Disparo Certero
 Water Pledge
-Water Pledge
+Voto Agua
 Waterfall
-Waterfall
+Cascada
 Razor Shell
-Razor Shell
+Concha Filo
 Aqua Cutter
-Aqua Cutter
+Tajo Acuático
 Brine
-Brine
+Salmuera
 Bubble Beam
-Bubble Beam
+Rayo Burbuja
 Octazooka
-Octazooka
+Pulpocañón
 Flip Turn
-Flip Turn
+Viraje
 Jet Punch
-Jet Punch
+Puño Jet
 Water Pulse
-Water Pulse
+Hidropulso
 Chilling Water
-Chilling Water
+Agua Fría
 Aqua Jet
-Aqua Jet
+Acua Jet
 Bubble
-Bubble
+Burbuja
 Water Gun
-Water Gun
+Pistola Agua
 Clamp
-Clamp
+Tenaza
 Whirlpool
-Whirlpool
+Torbellino
 Triple Dive
-Triple Dive
+Triple Inmersión
 Surging Strikes
-Surging Strikes
+Azote Torrencial
 Water Shuriken
-Water Shuriken
+Shuriken de Agua
 Aqua Ring
-Aqua Ring
+Acua Aro
 Life Dew
-Life Dew
+Gota Vital
 Rain Dance
-Rain Dance
+Danza Lluvia
 Soak
-Soak
+Empapar
 Water Sport
-Water Sport
+Hidrochorro
 Withdraw
-Withdraw
+Refugio
 Vice Grip
-Vice Grip
+Agarre

@@ -3,142 +3,142 @@
 #-------------------------------
 [RIBBON_NAMES]
 Cool Ribbon
-Cool Ribbon
+Cinta Carisma
 Cool Ribbon Super
-Cool Ribbon Super
+Cinta Carisma Alto
 Cool Ribbon Hyper
-Cool Ribbon Hyper
+Cinta Carisma Avanzado
 Cool Ribbon Master
-Cool Ribbon Master
+Cinta Carisma Experto
 Beauty Ribbon
-Beauty Ribbon
+Cinta Belleza
 Beauty Ribbon Super
-Beauty Ribbon Super
+Cinta Belleza Alto
 Beauty Ribbon Hyper
-Beauty Ribbon Hyper
+Cinta Belleza Avanzado
 Beauty Ribbon Master
-Beauty Ribbon Master
+Cinta Belleza Experto
 Cute Ribbon
-Cute Ribbon
+Cinta Dulzura
 Cute Ribbon Super
-Cute Ribbon Super
+Cinta Dulzura Alto
 Cute Ribbon Hyper
-Cute Ribbon Hyper
+Cinta Dulzura Avanzado
 Cute Ribbon Master
-Cute Ribbon Master
+Cinta Dulzura Experto
 Smart Ribbon
-Smart Ribbon
+Cinta Ingenio
 Smart Ribbon Super
-Smart Ribbon Super
+Cinta Ingenio Alto
 Smart Ribbon Hyper
-Smart Ribbon Hyper
+Cinta Ingenio Avanzado
 Smart Ribbon Master
-Smart Ribbon Master
+Cinta Ingenio Experto
 Tough Ribbon
-Tough Ribbon
+Cinta Dureza
 Tough Ribbon Super
-Tough Ribbon Super
+Cinta Dureza Alto
 Tough Ribbon Hyper
-Tough Ribbon Hyper
+Cinta Dureza Avanzado
 Tough Ribbon Master
-Tough Ribbon Master
+Cinta Dureza Experto
 Cool Ribbon Great
-Cool Ribbon Great
+Cinta Carisma Difícil
 Cool Ribbon Ultra
-Cool Ribbon Ultra
+Cinta Carisma Superior
 Beauty Ribbon Great
-Beauty Ribbon Great
+Cinta Belleza Difícil
 Beauty Ribbon Ultra
-Beauty Ribbon Ultra
+Cinta Belleza Superior
 Cute Ribbon Great
-Cute Ribbon Great
+Cinta Dulzura Difícil
 Cute Ribbon Ultra
-Cute Ribbon Ultra
+Cinta Dulzura Superior
 Smart Ribbon Great
-Smart Ribbon Great
+Cinta Ingenio Difícil
 Smart Ribbon Ultra
-Smart Ribbon Ultra
+Cinta Ingenio Superior
 Tough Ribbon Great
-Tough Ribbon Great
+Cinta Dureza Difícil
 Tough Ribbon Ultra
-Tough Ribbon Ultra
+Cinta Dureza Superior
 Winning Ribbon
-Winning Ribbon
+Cinta Ganador
 Victory Ribbon
-Victory Ribbon
+Cinta Victoria
 Ability Ribbon
-Ability Ribbon
+Cinta Habilidad
 Great Ability Ribbon
-Great Ability Ribbon
+Cinta Gran Habilidad
 Double Ability Ribbon
-Double Ability Ribbon
+Cinta Doble Habilidad
 Multi Ability Ribbon
-Multi Ability Ribbon
+Cinta Habilidad Múltiple
 Pair Ability Ribbon
-Pair Ability Ribbon
+Cinta Habilidad Par
 World Ability Ribbon
-World Ability Ribbon
+Cinta Habilidad Mundial
 Champion Ribbon
-Champion Ribbon
+Cinta Campeón
 Sinnoh Champ Ribbon
-Sinnoh Champ Ribbon
+Cinta Campeón
 Record Ribbon
-Record Ribbon
+Cinta Récord
 Event Ribbon
-Event Ribbon
+Cinta Evento
 Legend Ribbon
-Legend Ribbon
+Cinta Leyenda
 Gorgeous Ribbon
-Gorgeous Ribbon
+Cinta Maravilla
 Royal Ribbon
-Royal Ribbon
+Cinta Realeza
 Gorgeous Royal Ribbon
-Gorgeous Royal Ribbon
+Cinta Realeza Maravilla
 Alert Ribbon
-Alert Ribbon
+Cinta Alerta
 Shock Ribbon
-Shock Ribbon
+Cinta Impacto
 Downcast Ribbon
-Downcast Ribbon
+Cinta Abatimiento
 Careless Ribbon
-Careless Ribbon
+Cinta Descuido
 Relax Ribbon
-Relax Ribbon
+Cinta Relax
 Snooze Ribbon
-Snooze Ribbon
+Cinta Cabezada
 Smile Ribbon
-Smile Ribbon
+Cinta Sonrisa
 Footprint Ribbon
-Footprint Ribbon
+Cinta Huella
 Artist Ribbon
-Artist Ribbon
+Cinta Artista
 Effort Ribbon
-Effort Ribbon
+Cinta Esfuerzo
 Birthday Ribbon
-Birthday Ribbon
+Cinta Cumpleaños
 Special Ribbon
-Special Ribbon
+Cinta Especial
 Classic Ribbon
-Classic Ribbon
+Cinta Clásica
 Premier Ribbon
-Premier Ribbon
+Cinta Principal
 Souvenir Ribbon
-Souvenir Ribbon
+Cinta Recuerdo
 Wishing Ribbon
-Wishing Ribbon
+Cinta Deseo
 National Ribbon
-National Ribbon
+Cinta Nacional
 Country Ribbon
-Country Ribbon
+Cinta Campo
 Battle Champion Ribbon
-Battle Champion Ribbon
+Cinta de Campeón de Torneo
 Regional Champion Ribbon
-Regional Champion Ribbon
+Cinta Campeón de Área
 Earth Ribbon
-Earth Ribbon
+Cinta Planeta
 World Ribbon
-World Ribbon
+Cinta Mundo
 National Champion Ribbon
-National Champion Ribbon
+Cinta Campeón Nacional
 World Champion Ribbon
-World Champion Ribbon
+Cinta Campeón Mundial
